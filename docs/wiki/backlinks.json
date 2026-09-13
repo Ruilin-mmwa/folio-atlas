@@ -1,0 +1,2324 @@
+{
+  "萨比娜": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "阿兰",
+      "label": "阿兰",
+      "type": "person"
+    },
+    {
+      "id": "阿姆斯特丹",
+      "label": "阿姆斯特丹",
+      "type": "place"
+    },
+    {
+      "id": "巴勒莫",
+      "label": "巴勒莫",
+      "type": "place"
+    },
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "毕加索",
+      "label": "毕加索",
+      "type": "person"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "不解之词",
+      "label": "不解之词",
+      "type": "concept"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "弗兰茨",
+      "label": "弗兰茨",
+      "type": "person"
+    },
+    {
+      "id": "光明与黑暗",
+      "label": "光明与黑暗",
+      "type": "concept"
+    },
+    {
+      "id": "活在真实里",
+      "label": "活在真实里",
+      "type": "concept"
+    },
+    {
+      "id": "交织时间线",
+      "label": "交织时间线",
+      "type": "overview"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "type": "concept"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "玛丽-克洛德",
+      "label": "玛丽-克洛德",
+      "type": "person"
+    },
+    {
+      "id": "媚俗",
+      "label": "媚俗",
+      "type": "concept"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "纽约",
+      "label": "纽约",
+      "type": "place"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    },
+    {
+      "id": "苏联入侵捷克斯洛伐克",
+      "label": "苏联入侵捷克斯洛伐克",
+      "type": "event"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "同情",
+      "label": "同情",
+      "type": "concept"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    },
+    {
+      "id": "伟大进军",
+      "label": "伟大进军",
+      "type": "concept"
+    },
+    {
+      "id": "性友谊",
+      "label": "性友谊",
+      "type": "concept"
+    },
+    {
+      "id": "音乐",
+      "label": "音乐",
+      "type": "concept"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "特蕾莎": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "贝多芬",
+      "label": "贝多芬",
+      "type": "person"
+    },
+    {
+      "id": "彼得山",
+      "label": "彼得山",
+      "type": "place"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "杜布切克",
+      "label": "杜布切克",
+      "type": "person"
+    },
+    {
+      "id": "俄狄浦斯",
+      "label": "俄狄浦斯",
+      "type": "concept"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "工程师",
+      "label": "工程师",
+      "type": "person"
+    },
+    {
+      "id": "交织时间线",
+      "label": "交织时间线",
+      "type": "overview"
+    },
+    {
+      "id": "卡列宁",
+      "label": "卡列宁",
+      "type": "person"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "摩西",
+      "label": "摩西",
+      "type": "person"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "请愿书",
+      "label": "请愿书",
+      "type": "event"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "萨比娜",
+      "label": "萨比娜",
+      "type": "person"
+    },
+    {
+      "id": "诗化记忆",
+      "label": "诗化记忆",
+      "type": "concept"
+    },
+    {
+      "id": "苏联入侵捷克斯洛伐克",
+      "label": "苏联入侵捷克斯洛伐克",
+      "type": "event"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "塔米娜",
+      "label": "塔米娜",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎的母亲",
+      "label": "特蕾莎的母亲",
+      "type": "person"
+    },
+    {
+      "id": "同情",
+      "label": "同情",
+      "type": "concept"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    },
+    {
+      "id": "性友谊",
+      "label": "性友谊",
+      "type": "concept"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    },
+    {
+      "id": "眩晕",
+      "label": "眩晕",
+      "type": "concept"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    }
+  ],
+  "弗兰茨": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "阿姆斯特丹",
+      "label": "阿姆斯特丹",
+      "type": "place"
+    },
+    {
+      "id": "巴勒莫",
+      "label": "巴勒莫",
+      "type": "place"
+    },
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "不解之词",
+      "label": "不解之词",
+      "type": "concept"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "光明与黑暗",
+      "label": "光明与黑暗",
+      "type": "concept"
+    },
+    {
+      "id": "活在真实里",
+      "label": "活在真实里",
+      "type": "concept"
+    },
+    {
+      "id": "交织时间线",
+      "label": "交织时间线",
+      "type": "overview"
+    },
+    {
+      "id": "柬埔寨",
+      "label": "柬埔寨",
+      "type": "place"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "type": "concept"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "玛丽-克洛德",
+      "label": "玛丽-克洛德",
+      "type": "person"
+    },
+    {
+      "id": "玛丽-安娜",
+      "label": "玛丽-安娜",
+      "type": "person"
+    },
+    {
+      "id": "媚俗",
+      "label": "媚俗",
+      "type": "concept"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "纽约",
+      "label": "纽约",
+      "type": "place"
+    },
+    {
+      "id": "女大学生",
+      "label": "女大学生",
+      "type": "person"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    },
+    {
+      "id": "萨比娜",
+      "label": "萨比娜",
+      "type": "person"
+    },
+    {
+      "id": "伟大进军",
+      "label": "伟大进军",
+      "type": "concept"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    },
+    {
+      "id": "音乐",
+      "label": "音乐",
+      "type": "concept"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "托马斯": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "巴门尼德",
+      "label": "巴门尼德",
+      "type": "person"
+    },
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "贝多芬",
+      "label": "贝多芬",
+      "type": "person"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "俄狄浦斯",
+      "label": "俄狄浦斯",
+      "type": "concept"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "工程师",
+      "label": "工程师",
+      "type": "person"
+    },
+    {
+      "id": "交织时间线",
+      "label": "交织时间线",
+      "type": "overview"
+    },
+    {
+      "id": "卡列宁",
+      "label": "卡列宁",
+      "type": "person"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "type": "concept"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "媚俗",
+      "label": "媚俗",
+      "type": "concept"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "请愿书",
+      "label": "请愿书",
+      "type": "event"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "萨比娜",
+      "label": "萨比娜",
+      "type": "person"
+    },
+    {
+      "id": "诗化记忆",
+      "label": "诗化记忆",
+      "type": "concept"
+    },
+    {
+      "id": "苏联入侵捷克斯洛伐克",
+      "label": "苏联入侵捷克斯洛伐克",
+      "type": "event"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "塔米娜",
+      "label": "塔米娜",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "同情",
+      "label": "同情",
+      "type": "concept"
+    },
+    {
+      "id": "性友谊",
+      "label": "性友谊",
+      "type": "concept"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    },
+    {
+      "id": "眩晕",
+      "label": "眩晕",
+      "type": "concept"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    }
+  ],
+  "交织时间线": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "阿兰",
+      "label": "阿兰",
+      "type": "person"
+    },
+    {
+      "id": "阿姆斯特丹",
+      "label": "阿姆斯特丹",
+      "type": "place"
+    },
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "巴勒莫",
+      "label": "巴勒莫",
+      "type": "place"
+    },
+    {
+      "id": "巴门尼德",
+      "label": "巴门尼德",
+      "type": "person"
+    },
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "贝多芬",
+      "label": "贝多芬",
+      "type": "person"
+    },
+    {
+      "id": "彼得山",
+      "label": "彼得山",
+      "type": "place"
+    },
+    {
+      "id": "毕加索",
+      "label": "毕加索",
+      "type": "person"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "不解之词",
+      "label": "不解之词",
+      "type": "concept"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "达夫尼斯与赫洛亚",
+      "label": "达夫尼斯与赫洛亚",
+      "type": "concept"
+    },
+    {
+      "id": "雕塑家",
+      "label": "雕塑家",
+      "type": "person"
+    },
+    {
+      "id": "杜布切克",
+      "label": "杜布切克",
+      "type": "person"
+    },
+    {
+      "id": "俄狄浦斯",
+      "label": "俄狄浦斯",
+      "type": "concept"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "粪便与上帝",
+      "label": "粪便与上帝",
+      "type": "concept"
+    },
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "弗兰茨",
+      "label": "弗兰茨",
+      "type": "person"
+    },
+    {
+      "id": "告别圆舞曲",
+      "label": "告别圆舞曲",
+      "type": "concept"
+    },
+    {
+      "id": "工程师",
+      "label": "工程师",
+      "type": "person"
+    },
+    {
+      "id": "光明与黑暗",
+      "label": "光明与黑暗",
+      "type": "concept"
+    },
+    {
+      "id": "活在真实里",
+      "label": "活在真实里",
+      "type": "concept"
+    },
+    {
+      "id": "柬埔寨",
+      "label": "柬埔寨",
+      "type": "place"
+    },
+    {
+      "id": "卡列宁",
+      "label": "卡列宁",
+      "type": "person"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "type": "concept"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "罗伯斯庇尔",
+      "label": "罗伯斯庇尔",
+      "type": "person"
+    },
+    {
+      "id": "玛丽-克洛德",
+      "label": "玛丽-克洛德",
+      "type": "person"
+    },
+    {
+      "id": "玛丽-安娜",
+      "label": "玛丽-安娜",
+      "type": "person"
+    },
+    {
+      "id": "媚俗",
+      "label": "媚俗",
+      "type": "concept"
+    },
+    {
+      "id": "摩西",
+      "label": "摩西",
+      "type": "person"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "尼采",
+      "label": "尼采",
+      "type": "person"
+    },
+    {
+      "id": "纽约",
+      "label": "纽约",
+      "type": "place"
+    },
+    {
+      "id": "女大学生",
+      "label": "女大学生",
+      "type": "person"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "请愿书",
+      "label": "请愿书",
+      "type": "event"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    },
+    {
+      "id": "萨比娜",
+      "label": "萨比娜",
+      "type": "person"
+    },
+    {
+      "id": "生活在别处",
+      "label": "生活在别处",
+      "type": "concept"
+    },
+    {
+      "id": "诗化记忆",
+      "label": "诗化记忆",
+      "type": "concept"
+    },
+    {
+      "id": "司汤达",
+      "label": "司汤达",
+      "type": "person"
+    },
+    {
+      "id": "苏联入侵捷克斯洛伐克",
+      "label": "苏联入侵捷克斯洛伐克",
+      "type": "event"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "塔米娜",
+      "label": "塔米娜",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎的母亲",
+      "label": "特蕾莎的母亲",
+      "type": "person"
+    },
+    {
+      "id": "同情",
+      "label": "同情",
+      "type": "concept"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    },
+    {
+      "id": "玩笑",
+      "label": "玩笑",
+      "type": "concept"
+    },
+    {
+      "id": "伟大进军",
+      "label": "伟大进军",
+      "type": "concept"
+    },
+    {
+      "id": "希特勒",
+      "label": "希特勒",
+      "type": "person"
+    },
+    {
+      "id": "性友谊",
+      "label": "性友谊",
+      "type": "concept"
+    },
+    {
+      "id": "笑忘录",
+      "label": "笑忘录",
+      "type": "concept"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    },
+    {
+      "id": "眩晕",
+      "label": "眩晕",
+      "type": "concept"
+    },
+    {
+      "id": "伊甸",
+      "label": "伊甸",
+      "type": "concept"
+    },
+    {
+      "id": "音乐",
+      "label": "音乐",
+      "type": "concept"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "轻与重": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "巴门尼德",
+      "label": "巴门尼德",
+      "type": "person"
+    },
+    {
+      "id": "贝多芬",
+      "label": "贝多芬",
+      "type": "person"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "俄狄浦斯",
+      "label": "俄狄浦斯",
+      "type": "concept"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "光明与黑暗",
+      "label": "光明与黑暗",
+      "type": "concept"
+    },
+    {
+      "id": "交织时间线",
+      "label": "交织时间线",
+      "type": "overview"
+    },
+    {
+      "id": "卡列宁",
+      "label": "卡列宁",
+      "type": "person"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "罗伯斯庇尔",
+      "label": "罗伯斯庇尔",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "尼采",
+      "label": "尼采",
+      "type": "person"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "请愿书",
+      "label": "请愿书",
+      "type": "event"
+    },
+    {
+      "id": "诗化记忆",
+      "label": "诗化记忆",
+      "type": "concept"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    },
+    {
+      "id": "眩晕",
+      "label": "眩晕",
+      "type": "concept"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    }
+  ],
+  "永恒轮回": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "巴门尼德",
+      "label": "巴门尼德",
+      "type": "person"
+    },
+    {
+      "id": "罗伯斯庇尔",
+      "label": "罗伯斯庇尔",
+      "type": "person"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "尼采",
+      "label": "尼采",
+      "type": "person"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "希特勒",
+      "label": "希特勒",
+      "type": "person"
+    }
+  ],
+  "媚俗": [
+    {
+      "id": "About",
+      "label": "关于书境",
+      "type": "overview"
+    },
+    {
+      "id": "不解之词",
+      "label": "不解之词",
+      "type": "concept"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "粪便与上帝",
+      "label": "粪便与上帝",
+      "type": "concept"
+    },
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "光明与黑暗",
+      "label": "光明与黑暗",
+      "type": "concept"
+    },
+    {
+      "id": "活在真实里",
+      "label": "活在真实里",
+      "type": "concept"
+    },
+    {
+      "id": "玛丽-克洛德",
+      "label": "玛丽-克洛德",
+      "type": "person"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "尼采",
+      "label": "尼采",
+      "type": "person"
+    },
+    {
+      "id": "萨比娜",
+      "label": "萨比娜",
+      "type": "person"
+    },
+    {
+      "id": "伟大进军",
+      "label": "伟大进军",
+      "type": "concept"
+    },
+    {
+      "id": "音乐",
+      "label": "音乐",
+      "type": "concept"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "玛丽-安娜": [
+    {
+      "id": "阿兰",
+      "label": "阿兰",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "不解之词": [
+    {
+      "id": "阿兰",
+      "label": "阿兰",
+      "type": "person"
+    },
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "雕塑家",
+      "label": "雕塑家",
+      "type": "person"
+    },
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "光明与黑暗",
+      "label": "光明与黑暗",
+      "type": "concept"
+    },
+    {
+      "id": "活在真实里",
+      "label": "活在真实里",
+      "type": "concept"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "type": "concept"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    },
+    {
+      "id": "司汤达",
+      "label": "司汤达",
+      "type": "person"
+    },
+    {
+      "id": "音乐",
+      "label": "音乐",
+      "type": "concept"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "非刻意的美": [
+    {
+      "id": "阿姆斯特丹",
+      "label": "阿姆斯特丹",
+      "type": "place"
+    },
+    {
+      "id": "毕加索",
+      "label": "毕加索",
+      "type": "person"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "纽约",
+      "label": "纽约",
+      "type": "place"
+    },
+    {
+      "id": "音乐",
+      "label": "音乐",
+      "type": "concept"
+    }
+  ],
+  "偶然与必然": [
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "摩西",
+      "label": "摩西",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    }
+  ],
+  "卡列宁": [
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "尼采",
+      "label": "尼采",
+      "type": "person"
+    },
+    {
+      "id": "塔米娜",
+      "label": "塔米娜",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    },
+    {
+      "id": "伊甸",
+      "label": "伊甸",
+      "type": "concept"
+    }
+  ],
+  "布拉格": [
+    {
+      "id": "安娜-卡列宁娜",
+      "label": "安娜·卡列宁娜",
+      "type": "concept"
+    },
+    {
+      "id": "背叛",
+      "label": "背叛",
+      "type": "concept"
+    },
+    {
+      "id": "彼得山",
+      "label": "彼得山",
+      "type": "place"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "不解之词",
+      "label": "不解之词",
+      "type": "concept"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "苏联入侵捷克斯洛伐克",
+      "label": "苏联入侵捷克斯洛伐克",
+      "type": "event"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    }
+  ],
+  "日内瓦": [
+    {
+      "id": "巴勒莫",
+      "label": "巴勒莫",
+      "type": "place"
+    },
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "弗兰茨",
+      "label": "弗兰茨",
+      "type": "person"
+    },
+    {
+      "id": "玛丽-克洛德",
+      "label": "玛丽-克洛德",
+      "type": "person"
+    },
+    {
+      "id": "玛丽-安娜",
+      "label": "玛丽-安娜",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    }
+  ],
+  "Es-muss-sein": [
+    {
+      "id": "巴门尼德",
+      "label": "巴门尼德",
+      "type": "person"
+    },
+    {
+      "id": "贝多芬",
+      "label": "贝多芬",
+      "type": "person"
+    },
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    }
+  ],
+  "伟大进军": [
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "弗兰茨",
+      "label": "弗兰茨",
+      "type": "person"
+    },
+    {
+      "id": "柬埔寨",
+      "label": "柬埔寨",
+      "type": "place"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "苏黎世": [
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "杜布切克",
+      "label": "杜布切克",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    }
+  ],
+  "柬埔寨": [
+    {
+      "id": "巴黎",
+      "label": "巴黎",
+      "type": "place"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "女大学生",
+      "label": "女大学生",
+      "type": "person"
+    }
+  ],
+  "巴门尼德": [
+    {
+      "id": "贝多芬",
+      "label": "贝多芬",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "灵与肉": [
+    {
+      "id": "彼得山",
+      "label": "彼得山",
+      "type": "place"
+    },
+    {
+      "id": "工程师",
+      "label": "工程师",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎的母亲",
+      "label": "特蕾莎的母亲",
+      "type": "person"
+    },
+    {
+      "id": "伊甸",
+      "label": "伊甸",
+      "type": "concept"
+    }
+  ],
+  "苏联入侵捷克斯洛伐克": [
+    {
+      "id": "彼得山",
+      "label": "彼得山",
+      "type": "place"
+    },
+    {
+      "id": "杜布切克",
+      "label": "杜布切克",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "请愿书",
+      "label": "请愿书",
+      "type": "event"
+    },
+    {
+      "id": "苏黎世",
+      "label": "苏黎世",
+      "type": "place"
+    },
+    {
+      "id": "希特勒",
+      "label": "希特勒",
+      "type": "person"
+    },
+    {
+      "id": "西蒙",
+      "label": "西蒙",
+      "type": "person"
+    }
+  ],
+  "背叛": [
+    {
+      "id": "毕加索",
+      "label": "毕加索",
+      "type": "person"
+    },
+    {
+      "id": "不解之词",
+      "label": "不解之词",
+      "type": "concept"
+    },
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "Es-muss-sein",
+      "label": "Es muss sein",
+      "type": "concept"
+    },
+    {
+      "id": "活在真实里",
+      "label": "活在真实里",
+      "type": "concept"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "萨比娜",
+      "label": "萨比娜",
+      "type": "person"
+    },
+    {
+      "id": "伟大进军",
+      "label": "伟大进军",
+      "type": "concept"
+    }
+  ],
+  "牧歌": [
+    {
+      "id": "波希米亚",
+      "label": "波希米亚",
+      "type": "place"
+    },
+    {
+      "id": "达夫尼斯与赫洛亚",
+      "label": "达夫尼斯与赫洛亚",
+      "type": "concept"
+    },
+    {
+      "id": "卡列宁",
+      "label": "卡列宁",
+      "type": "person"
+    },
+    {
+      "id": "墓地",
+      "label": "墓地",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "生活在别处",
+      "label": "生活在别处",
+      "type": "concept"
+    },
+    {
+      "id": "塔米娜",
+      "label": "塔米娜",
+      "type": "person"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "玩笑",
+      "label": "玩笑",
+      "type": "concept"
+    },
+    {
+      "id": "笑忘录",
+      "label": "笑忘录",
+      "type": "concept"
+    },
+    {
+      "id": "伊甸",
+      "label": "伊甸",
+      "type": "concept"
+    },
+    {
+      "id": "永恒轮回",
+      "label": "永恒轮回",
+      "type": "concept"
+    }
+  ],
+  "性友谊": [
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "灵与肉",
+      "label": "灵与肉",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "轻与重",
+      "label": "轻与重",
+      "type": "concept"
+    },
+    {
+      "id": "诗化记忆",
+      "label": "诗化记忆",
+      "type": "concept"
+    }
+  ],
+  "波希米亚": [
+    {
+      "id": "布拉格",
+      "label": "布拉格",
+      "type": "place"
+    },
+    {
+      "id": "工程师",
+      "label": "工程师",
+      "type": "person"
+    },
+    {
+      "id": "牧歌",
+      "label": "牧歌",
+      "type": "event"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "偶然与必然",
+      "label": "偶然与必然",
+      "type": "concept"
+    },
+    {
+      "id": "苏联入侵捷克斯洛伐克",
+      "label": "苏联入侵捷克斯洛伐克",
+      "type": "event"
+    }
+  ],
+  "笑忘录": [
+    {
+      "id": "达夫尼斯与赫洛亚",
+      "label": "达夫尼斯与赫洛亚",
+      "type": "concept"
+    },
+    {
+      "id": "告别圆舞曲",
+      "label": "告别圆舞曲",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "生活在别处",
+      "label": "生活在别处",
+      "type": "concept"
+    },
+    {
+      "id": "玩笑",
+      "label": "玩笑",
+      "type": "concept"
+    }
+  ],
+  "伊甸": [
+    {
+      "id": "达夫尼斯与赫洛亚",
+      "label": "达夫尼斯与赫洛亚",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "玛丽-克洛德": [
+    {
+      "id": "雕塑家",
+      "label": "雕塑家",
+      "type": "person"
+    },
+    {
+      "id": "弗兰茨",
+      "label": "弗兰茨",
+      "type": "person"
+    },
+    {
+      "id": "玛丽-安娜",
+      "label": "玛丽-安娜",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "女大学生",
+      "label": "女大学生",
+      "type": "person"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    },
+    {
+      "id": "司汤达",
+      "label": "司汤达",
+      "type": "person"
+    }
+  ],
+  "同情": [
+    {
+      "id": "俄狄浦斯",
+      "label": "俄狄浦斯",
+      "type": "concept"
+    },
+    {
+      "id": "力量",
+      "label": "力量",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    }
+  ],
+  "阿姆斯特丹": [
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "墓地": [
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "音乐": [
+    {
+      "id": "非刻意的美",
+      "label": "非刻意的美",
+      "type": "concept"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "女大学生": [
+    {
+      "id": "弗兰茨",
+      "label": "弗兰茨",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "游行": [
+    {
+      "id": "柬埔寨",
+      "label": "柬埔寨",
+      "type": "place"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "希特勒": [
+    {
+      "id": "罗伯斯庇尔",
+      "label": "罗伯斯庇尔",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "俄狄浦斯": [
+    {
+      "id": "摩西",
+      "label": "摩西",
+      "type": "person"
+    },
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "眩晕": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "诗化记忆": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "毕加索": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "粪便与上帝": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "告别圆舞曲": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "光明与黑暗": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "阿兰": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "安娜-卡列宁娜": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "塔米娜": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "笑忘录",
+      "label": "笑忘录",
+      "type": "concept"
+    }
+  ],
+  "司汤达": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "罗伯斯庇尔": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "希特勒",
+      "label": "希特勒",
+      "type": "person"
+    }
+  ],
+  "达夫尼斯与赫洛亚": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "笑忘录",
+      "label": "笑忘录",
+      "type": "concept"
+    },
+    {
+      "id": "伊甸",
+      "label": "伊甸",
+      "type": "concept"
+    }
+  ],
+  "工程师": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "杜布切克": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "请愿书": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "特蕾莎的母亲": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "特蕾莎",
+      "label": "特蕾莎",
+      "type": "person"
+    }
+  ],
+  "生活在别处": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "力量": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "巴黎": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "纽约",
+      "label": "纽约",
+      "type": "place"
+    },
+    {
+      "id": "日内瓦",
+      "label": "日内瓦",
+      "type": "place"
+    },
+    {
+      "id": "游行",
+      "label": "游行",
+      "type": "concept"
+    }
+  ],
+  "彼得山": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "摩西": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "纽约": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "活在真实里": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "玩笑": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "巴勒莫": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "尼采": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "贝多芬": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ],
+  "西蒙": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    },
+    {
+      "id": "请愿书",
+      "label": "请愿书",
+      "type": "event"
+    },
+    {
+      "id": "托马斯",
+      "label": "托马斯",
+      "type": "person"
+    }
+  ],
+  "雕塑家": [
+    {
+      "id": "目录",
+      "label": "阅读地图",
+      "type": "overview"
+    }
+  ]
+}

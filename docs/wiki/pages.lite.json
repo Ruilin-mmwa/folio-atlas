@@ -1,0 +1,815 @@
+{
+  "_schema_version": 2,
+  "pages": {
+    "About": {
+      "type": "overview",
+      "label": "关于书境",
+      "aliases": [
+        "About"
+      ],
+      "path": "ab/About.md"
+    },
+    "阿兰": {
+      "type": "person",
+      "label": "阿兰",
+      "aliases": [
+        "Alain"
+      ],
+      "path": "al/阿兰.md"
+    },
+    "阿姆斯特丹": {
+      "type": "place",
+      "label": "阿姆斯特丹",
+      "aliases": [
+        "Amsterdam"
+      ],
+      "path": "am/阿姆斯特丹.md"
+    },
+    "安娜-卡列宁娜": {
+      "type": "concept",
+      "label": "安娜·卡列宁娜",
+      "aliases": [
+        "《安娜·卡列宁娜》",
+        "Anna Karenina",
+        "安娜"
+      ],
+      "path": "an/安娜-卡列宁娜.md"
+    },
+    "巴勒莫": {
+      "type": "place",
+      "label": "巴勒莫",
+      "aliases": [
+        "Palermo"
+      ],
+      "path": "ba/巴勒莫.md"
+    },
+    "巴门尼德": {
+      "type": "person",
+      "label": "巴门尼德",
+      "aliases": [
+        "Parmenides",
+        "巴门尼德斯"
+      ],
+      "path": "ba/巴门尼德.md"
+    },
+    "巴黎": {
+      "type": "place",
+      "label": "巴黎",
+      "aliases": [
+        "Paris"
+      ],
+      "path": "ba/巴黎.md"
+    },
+    "背叛": {
+      "type": "concept",
+      "label": "背叛",
+      "aliases": [
+        "betrayal",
+        "trahison"
+      ],
+      "path": "be/背叛.md"
+    },
+    "贝多芬": {
+      "type": "person",
+      "label": "贝多芬",
+      "aliases": [
+        "Ludwig van Beethoven"
+      ],
+      "path": "be/贝多芬.md"
+    },
+    "彼得山": {
+      "type": "place",
+      "label": "彼得山",
+      "aliases": [
+        "Petřín",
+        "佩特任山"
+      ],
+      "path": "bi/彼得山.md"
+    },
+    "毕加索": {
+      "type": "person",
+      "label": "毕加索",
+      "aliases": [
+        "Pablo Picasso"
+      ],
+      "path": "bi/毕加索.md"
+    },
+    "波希米亚": {
+      "type": "place",
+      "label": "波希米亚",
+      "aliases": [
+        "Bohemia",
+        "Čechy"
+      ],
+      "path": "bo/波希米亚.md"
+    },
+    "不解之词": {
+      "type": "concept",
+      "label": "不解之词",
+      "aliases": [
+        "Misunderstood Words",
+        "mots incompris"
+      ],
+      "path": "bu/不解之词.md"
+    },
+    "布拉格": {
+      "type": "place",
+      "label": "布拉格",
+      "aliases": [
+        "Prague",
+        "Praha"
+      ],
+      "path": "bu/布拉格.md"
+    },
+    "达夫尼斯与赫洛亚": {
+      "type": "concept",
+      "label": "达夫尼斯与赫洛亚",
+      "aliases": [
+        "Daphnis and Chloe",
+        "达夫尼斯和赫洛亚"
+      ],
+      "path": "da/达夫尼斯与赫洛亚.md"
+    },
+    "雕塑家": {
+      "type": "person",
+      "label": "雕塑家",
+      "aliases": [
+        "雕塑家",
+        "捂手指的雕塑家"
+      ],
+      "path": "di/雕塑家.md"
+    },
+    "杜布切克": {
+      "type": "person",
+      "label": "杜布切克",
+      "aliases": [
+        "亚历山大·杜布切克",
+        "Alexander Dubček"
+      ],
+      "path": "du/杜布切克.md"
+    },
+    "俄狄浦斯": {
+      "type": "concept",
+      "label": "俄狄浦斯",
+      "aliases": [
+        "Oedipus",
+        "俄狄浦斯王"
+      ],
+      "path": "ed/俄狄浦斯.md"
+    },
+    "Es-muss-sein": {
+      "type": "concept",
+      "label": "Es muss sein",
+      "aliases": [
+        "非如此不可",
+        "Es muß sein",
+        "It must be"
+      ],
+      "path": "es/Es-muss-sein.md"
+    },
+    "粪便与上帝": {
+      "type": "concept",
+      "label": "粪便与上帝",
+      "aliases": [
+        "shit and God",
+        "merde et Dieu"
+      ],
+      "path": "fe/粪便与上帝.md"
+    },
+    "非刻意的美": {
+      "type": "concept",
+      "label": "非刻意的美",
+      "aliases": [
+        "纽约之美",
+        "错误的美",
+        "被背弃的美"
+      ],
+      "path": "fe/非刻意的美.md"
+    },
+    "弗兰茨": {
+      "type": "person",
+      "label": "弗兰茨",
+      "aliases": [
+        "Franz",
+        "弗朗茨"
+      ],
+      "path": "fu/弗兰茨.md"
+    },
+    "告别圆舞曲": {
+      "type": "concept",
+      "label": "告别圆舞曲",
+      "aliases": [
+        "《告别圆舞曲》",
+        "The Farewell Waltz"
+      ],
+      "path": "ga/告别圆舞曲.md"
+    },
+    "工程师": {
+      "type": "person",
+      "label": "工程师",
+      "aliases": [
+        "假工程师",
+        "那男人"
+      ],
+      "path": "go/工程师.md"
+    },
+    "光明与黑暗": {
+      "type": "concept",
+      "label": "光明与黑暗",
+      "aliases": [
+        "光明与黑暗的意象",
+        "light and dark"
+      ],
+      "path": "gu/光明与黑暗.md"
+    },
+    "活在真实里": {
+      "type": "concept",
+      "label": "活在真实里",
+      "aliases": [
+        "生活在真实中",
+        "Living in Truth",
+        "life in truth"
+      ],
+      "path": "hu/活在真实里.md"
+    },
+    "交织时间线": {
+      "type": "overview",
+      "label": "交织时间线",
+      "aliases": [
+        "人物时间线",
+        "故事时间线",
+        "同期人物",
+        "Braided Timeline"
+      ],
+      "path": "ji/交织时间线.md"
+    },
+    "柬埔寨": {
+      "type": "place",
+      "label": "柬埔寨",
+      "aliases": [
+        "Cambodia"
+      ],
+      "path": "ji/柬埔寨.md"
+    },
+    "卡列宁": {
+      "type": "person",
+      "label": "卡列宁",
+      "aliases": [
+        "Karenin",
+        "卡列宁娜"
+      ],
+      "path": "ka/卡列宁.md"
+    },
+    "力量": {
+      "type": "concept",
+      "label": "力量",
+      "aliases": [
+        "strength",
+        "强力",
+        "软弱"
+      ],
+      "path": "li/力量.md"
+    },
+    "灵与肉": {
+      "type": "concept",
+      "label": "灵与肉",
+      "aliases": [
+        "soul and body",
+        "l'âme et le corps"
+      ],
+      "path": "li/灵与肉.md"
+    },
+    "罗伯斯庇尔": {
+      "type": "person",
+      "label": "罗伯斯庇尔",
+      "aliases": [
+        "Maximilien Robespierre"
+      ],
+      "path": "lu/罗伯斯庇尔.md"
+    },
+    "玛丽-克洛德": {
+      "type": "person",
+      "label": "玛丽-克洛德",
+      "aliases": [
+        "Marie-Claude"
+      ],
+      "path": "ma/玛丽-克洛德.md"
+    },
+    "玛丽-安娜": {
+      "type": "person",
+      "label": "玛丽-安娜",
+      "aliases": [
+        "Marie-Anne"
+      ],
+      "path": "ma/玛丽-安娜.md"
+    },
+    "媚俗": {
+      "type": "concept",
+      "label": "媚俗",
+      "aliases": [
+        "Kitsch",
+        "刻奇"
+      ],
+      "path": "me/媚俗.md"
+    },
+    "摩西": {
+      "type": "person",
+      "label": "摩西",
+      "aliases": [
+        "Moses",
+        "摩西五经"
+      ],
+      "path": "mo/摩西.md"
+    },
+    "墓地": {
+      "type": "concept",
+      "label": "墓地",
+      "aliases": [
+        "cemetery",
+        "公墓",
+        "坟场"
+      ],
+      "path": "mu/墓地.md"
+    },
+    "牧歌": {
+      "type": "event",
+      "label": "牧歌",
+      "aliases": [
+        "Idyll",
+        "田园牧歌",
+        "大写的牧歌与小写的牧歌"
+      ],
+      "path": "mu/牧歌.md"
+    },
+    "目录": {
+      "type": "overview",
+      "label": "阅读地图",
+      "aliases": [
+        "目录",
+        "Table of Contents",
+        "TOC"
+      ],
+      "path": "mu/目录.md"
+    },
+    "尼采": {
+      "type": "person",
+      "label": "尼采",
+      "aliases": [
+        "Friedrich Nietzsche",
+        "弗里德里希·尼采"
+      ],
+      "path": "ni/尼采.md"
+    },
+    "纽约": {
+      "type": "place",
+      "label": "纽约",
+      "aliases": [
+        "New York",
+        "纽约市"
+      ],
+      "path": "ni/纽约.md"
+    },
+    "女大学生": {
+      "type": "person",
+      "label": "女大学生",
+      "aliases": [
+        "戴眼镜的女大学生",
+        "戴眼镜的女孩"
+      ],
+      "path": "nv/女大学生.md"
+    },
+    "偶然与必然": {
+      "type": "concept",
+      "label": "偶然与必然",
+      "aliases": [
+        "chance and necessity",
+        "hasard et nécessité"
+      ],
+      "path": "ou/偶然与必然.md"
+    },
+    "请愿书": {
+      "type": "event",
+      "label": "请愿书",
+      "aliases": [
+        "赦免政治犯请愿书",
+        "大赦请愿书"
+      ],
+      "path": "qi/请愿书.md"
+    },
+    "轻与重": {
+      "type": "concept",
+      "label": "轻与重",
+      "aliases": [
+        "lightness and weight",
+        "leggerezza e peso"
+      ],
+      "path": "qi/轻与重.md"
+    },
+    "日内瓦": {
+      "type": "place",
+      "label": "日内瓦",
+      "aliases": [
+        "Geneva",
+        "Genève"
+      ],
+      "path": "ri/日内瓦.md"
+    },
+    "萨比娜": {
+      "type": "person",
+      "label": "萨比娜",
+      "aliases": [
+        "Sabina",
+        "萨宾娜"
+      ],
+      "path": "sa/萨比娜.md"
+    },
+    "生活在别处": {
+      "type": "concept",
+      "label": "生活在别处",
+      "aliases": [
+        "《生活在别处》",
+        "Life Is Elsewhere"
+      ],
+      "path": "sh/生活在别处.md"
+    },
+    "诗化记忆": {
+      "type": "concept",
+      "label": "诗化记忆",
+      "aliases": [],
+      "path": "sh/诗化记忆.md"
+    },
+    "司汤达": {
+      "type": "person",
+      "label": "司汤达",
+      "aliases": [
+        "Stendhal",
+        "亨利·贝尔"
+      ],
+      "path": "si/司汤达.md"
+    },
+    "苏联入侵捷克斯洛伐克": {
+      "type": "event",
+      "label": "苏联入侵捷克斯洛伐克",
+      "aliases": [],
+      "path": "su/苏联入侵捷克斯洛伐克.md"
+    },
+    "苏黎世": {
+      "type": "place",
+      "label": "苏黎世",
+      "aliases": [
+        "Zurich",
+        "Zürich"
+      ],
+      "path": "su/苏黎世.md"
+    },
+    "塔米娜": {
+      "type": "person",
+      "label": "塔米娜",
+      "aliases": [
+        "Támina"
+      ],
+      "path": "ta/塔米娜.md"
+    },
+    "特蕾莎": {
+      "type": "person",
+      "label": "特蕾莎",
+      "aliases": [
+        "Tereza",
+        "特丽莎"
+      ],
+      "path": "te/特蕾莎.md"
+    },
+    "特蕾莎的母亲": {
+      "type": "person",
+      "label": "特蕾莎的母亲",
+      "aliases": [
+        "母亲"
+      ],
+      "path": "te/特蕾莎的母亲.md"
+    },
+    "同情": {
+      "type": "concept",
+      "label": "同情",
+      "aliases": [
+        "compassion",
+        "soucit",
+        "Mitgefühl",
+        "co-feeling"
+      ],
+      "path": "to/同情.md"
+    },
+    "托马斯": {
+      "type": "person",
+      "label": "托马斯",
+      "aliases": [
+        "Tomas",
+        "Tomáš",
+        "托马什"
+      ],
+      "path": "tu/托马斯.md"
+    },
+    "玩笑": {
+      "type": "concept",
+      "label": "玩笑",
+      "aliases": [
+        "《玩笑》",
+        "The Joke"
+      ],
+      "path": "wa/玩笑.md"
+    },
+    "伟大进军": {
+      "type": "concept",
+      "label": "伟大进军",
+      "aliases": [
+        "The Grand March",
+        "la Grande Marche"
+      ],
+      "path": "we/伟大进军.md"
+    },
+    "希特勒": {
+      "type": "person",
+      "label": "希特勒",
+      "aliases": [
+        "Adolf Hitler",
+        "阿道夫·希特勒"
+      ],
+      "path": "xi/希特勒.md"
+    },
+    "性友谊": {
+      "type": "concept",
+      "label": "性友谊",
+      "aliases": [],
+      "path": "xi/性友谊.md"
+    },
+    "笑忘录": {
+      "type": "concept",
+      "label": "笑忘录",
+      "aliases": [
+        "《笑忘录》",
+        "The Book of Laughter and Forgetting"
+      ],
+      "path": "xi/笑忘录.md"
+    },
+    "西蒙": {
+      "type": "person",
+      "label": "西蒙",
+      "aliases": [
+        "西蒙·托马斯",
+        "托马斯的儿子"
+      ],
+      "path": "xi/西蒙.md"
+    },
+    "眩晕": {
+      "type": "concept",
+      "label": "眩晕",
+      "aliases": [
+        "vertigo",
+        "vertige"
+      ],
+      "path": "xu/眩晕.md"
+    },
+    "伊甸": {
+      "type": "concept",
+      "label": "伊甸",
+      "aliases": [
+        "伊甸园",
+        "Eden"
+      ],
+      "path": "yi/伊甸.md"
+    },
+    "音乐": {
+      "type": "concept",
+      "label": "音乐",
+      "aliases": [
+        "music",
+        "噪音"
+      ],
+      "path": "yi/音乐.md"
+    },
+    "永恒轮回": {
+      "type": "concept",
+      "label": "永恒轮回",
+      "aliases": [
+        "Eternal Return",
+        "永恒回归",
+        "永劫回归"
+      ],
+      "path": "yo/永恒轮回.md"
+    },
+    "游行": {
+      "type": "concept",
+      "label": "游行",
+      "aliases": [
+        "parade",
+        "示威",
+        "伟大的进军"
+      ],
+      "path": "yo/游行.md"
+    }
+  },
+  "alias_index": {
+    "About": "About",
+    "关于书境": "About",
+    "阿兰": "阿兰",
+    "Alain": "阿兰",
+    "阿姆斯特丹": "阿姆斯特丹",
+    "Amsterdam": "阿姆斯特丹",
+    "安娜-卡列宁娜": "安娜-卡列宁娜",
+    "安娜·卡列宁娜": "安娜-卡列宁娜",
+    "《安娜·卡列宁娜》": "安娜-卡列宁娜",
+    "Anna Karenina": "安娜-卡列宁娜",
+    "安娜": "安娜-卡列宁娜",
+    "巴勒莫": "巴勒莫",
+    "Palermo": "巴勒莫",
+    "巴门尼德": "巴门尼德",
+    "Parmenides": "巴门尼德",
+    "巴门尼德斯": "巴门尼德",
+    "巴黎": "巴黎",
+    "Paris": "巴黎",
+    "背叛": "背叛",
+    "betrayal": "背叛",
+    "trahison": "背叛",
+    "贝多芬": "贝多芬",
+    "Ludwig van Beethoven": "贝多芬",
+    "彼得山": "彼得山",
+    "Petřín": "彼得山",
+    "佩特任山": "彼得山",
+    "毕加索": "毕加索",
+    "Pablo Picasso": "毕加索",
+    "波希米亚": "波希米亚",
+    "Bohemia": "波希米亚",
+    "Čechy": "波希米亚",
+    "不解之词": "不解之词",
+    "Misunderstood Words": "不解之词",
+    "mots incompris": "不解之词",
+    "布拉格": "布拉格",
+    "Prague": "布拉格",
+    "Praha": "布拉格",
+    "达夫尼斯与赫洛亚": "达夫尼斯与赫洛亚",
+    "Daphnis and Chloe": "达夫尼斯与赫洛亚",
+    "达夫尼斯和赫洛亚": "达夫尼斯与赫洛亚",
+    "雕塑家": "雕塑家",
+    "捂手指的雕塑家": "雕塑家",
+    "杜布切克": "杜布切克",
+    "亚历山大·杜布切克": "杜布切克",
+    "Alexander Dubček": "杜布切克",
+    "俄狄浦斯": "俄狄浦斯",
+    "Oedipus": "俄狄浦斯",
+    "俄狄浦斯王": "俄狄浦斯",
+    "Es-muss-sein": "Es-muss-sein",
+    "Es muss sein": "Es-muss-sein",
+    "非如此不可": "Es-muss-sein",
+    "Es muß sein": "Es-muss-sein",
+    "It must be": "Es-muss-sein",
+    "粪便与上帝": "粪便与上帝",
+    "shit and God": "粪便与上帝",
+    "merde et Dieu": "粪便与上帝",
+    "非刻意的美": "非刻意的美",
+    "纽约之美": "非刻意的美",
+    "错误的美": "非刻意的美",
+    "被背弃的美": "非刻意的美",
+    "弗兰茨": "弗兰茨",
+    "Franz": "弗兰茨",
+    "弗朗茨": "弗兰茨",
+    "告别圆舞曲": "告别圆舞曲",
+    "《告别圆舞曲》": "告别圆舞曲",
+    "The Farewell Waltz": "告别圆舞曲",
+    "工程师": "工程师",
+    "假工程师": "工程师",
+    "那男人": "工程师",
+    "光明与黑暗": "光明与黑暗",
+    "光明与黑暗的意象": "光明与黑暗",
+    "light and dark": "光明与黑暗",
+    "活在真实里": "活在真实里",
+    "生活在真实中": "活在真实里",
+    "Living in Truth": "活在真实里",
+    "life in truth": "活在真实里",
+    "交织时间线": "交织时间线",
+    "人物时间线": "交织时间线",
+    "故事时间线": "交织时间线",
+    "同期人物": "交织时间线",
+    "Braided Timeline": "交织时间线",
+    "柬埔寨": "柬埔寨",
+    "Cambodia": "柬埔寨",
+    "卡列宁": "卡列宁",
+    "Karenin": "卡列宁",
+    "卡列宁娜": "卡列宁",
+    "力量": "力量",
+    "strength": "力量",
+    "强力": "力量",
+    "软弱": "力量",
+    "灵与肉": "灵与肉",
+    "soul and body": "灵与肉",
+    "l'âme et le corps": "灵与肉",
+    "罗伯斯庇尔": "罗伯斯庇尔",
+    "Maximilien Robespierre": "罗伯斯庇尔",
+    "玛丽-克洛德": "玛丽-克洛德",
+    "Marie-Claude": "玛丽-克洛德",
+    "玛丽-安娜": "玛丽-安娜",
+    "Marie-Anne": "玛丽-安娜",
+    "媚俗": "媚俗",
+    "Kitsch": "媚俗",
+    "刻奇": "媚俗",
+    "摩西": "摩西",
+    "Moses": "摩西",
+    "摩西五经": "摩西",
+    "墓地": "墓地",
+    "cemetery": "墓地",
+    "公墓": "墓地",
+    "坟场": "墓地",
+    "牧歌": "牧歌",
+    "Idyll": "牧歌",
+    "田园牧歌": "牧歌",
+    "大写的牧歌与小写的牧歌": "牧歌",
+    "目录": "目录",
+    "阅读地图": "目录",
+    "Table of Contents": "目录",
+    "TOC": "目录",
+    "尼采": "尼采",
+    "Friedrich Nietzsche": "尼采",
+    "弗里德里希·尼采": "尼采",
+    "纽约": "纽约",
+    "New York": "纽约",
+    "纽约市": "纽约",
+    "女大学生": "女大学生",
+    "戴眼镜的女大学生": "女大学生",
+    "戴眼镜的女孩": "女大学生",
+    "偶然与必然": "偶然与必然",
+    "chance and necessity": "偶然与必然",
+    "hasard et nécessité": "偶然与必然",
+    "请愿书": "请愿书",
+    "赦免政治犯请愿书": "请愿书",
+    "大赦请愿书": "请愿书",
+    "轻与重": "轻与重",
+    "lightness and weight": "轻与重",
+    "leggerezza e peso": "轻与重",
+    "日内瓦": "日内瓦",
+    "Geneva": "日内瓦",
+    "Genève": "日内瓦",
+    "萨比娜": "萨比娜",
+    "Sabina": "萨比娜",
+    "萨宾娜": "萨比娜",
+    "生活在别处": "生活在别处",
+    "《生活在别处》": "生活在别处",
+    "Life Is Elsewhere": "生活在别处",
+    "诗化记忆": "诗化记忆",
+    "司汤达": "司汤达",
+    "Stendhal": "司汤达",
+    "亨利·贝尔": "司汤达",
+    "苏联入侵捷克斯洛伐克": "苏联入侵捷克斯洛伐克",
+    "苏黎世": "苏黎世",
+    "Zurich": "苏黎世",
+    "Zürich": "苏黎世",
+    "塔米娜": "塔米娜",
+    "Támina": "塔米娜",
+    "特蕾莎": "特蕾莎",
+    "Tereza": "特蕾莎",
+    "特丽莎": "特蕾莎",
+    "特蕾莎的母亲": "特蕾莎的母亲",
+    "母亲": "特蕾莎的母亲",
+    "同情": "同情",
+    "compassion": "同情",
+    "soucit": "同情",
+    "Mitgefühl": "同情",
+    "co-feeling": "同情",
+    "托马斯": "托马斯",
+    "Tomas": "托马斯",
+    "Tomáš": "托马斯",
+    "托马什": "托马斯",
+    "玩笑": "玩笑",
+    "《玩笑》": "玩笑",
+    "The Joke": "玩笑",
+    "伟大进军": "伟大进军",
+    "The Grand March": "伟大进军",
+    "la Grande Marche": "伟大进军",
+    "希特勒": "希特勒",
+    "Adolf Hitler": "希特勒",
+    "阿道夫·希特勒": "希特勒",
+    "性友谊": "性友谊",
+    "笑忘录": "笑忘录",
+    "《笑忘录》": "笑忘录",
+    "The Book of Laughter and Forgetting": "笑忘录",
+    "西蒙": "西蒙",
+    "西蒙·托马斯": "西蒙",
+    "托马斯的儿子": "西蒙",
+    "眩晕": "眩晕",
+    "vertigo": "眩晕",
+    "vertige": "眩晕",
+    "伊甸": "伊甸",
+    "伊甸园": "伊甸",
+    "Eden": "伊甸",
+    "音乐": "音乐",
+    "music": "音乐",
+    "噪音": "音乐",
+    "永恒轮回": "永恒轮回",
+    "Eternal Return": "永恒轮回",
+    "永恒回归": "永恒轮回",
+    "永劫回归": "永恒轮回",
+    "游行": "游行",
+    "parade": "游行",
+    "示威": "游行",
+    "伟大的进军": "游行"
+  },
+  "page_count": 68,
+  "generated": "2026-09-14T00:00:00Z"
+}

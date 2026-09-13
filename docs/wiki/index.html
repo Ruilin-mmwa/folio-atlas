@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>书境 FolioAtlas · 不能承受的生命之轻</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23a82a2a' rx='6'/><text x='16' y='24' text-anchor='middle' font-family='serif' font-size='22' fill='%23f5f0e8' font-weight='bold'>b</text></svg>">
+
+<!-- Both local preview and GitHub Pages use the external Memex runtime. -->
+<meta name="cdn-base" content="https://baojie.github.io/memex/dist">
+
+<!-- Import map: project customizations are local; upstream plugins use the CDN.
+     document.write ensures the importmap is injected before any type="module" scripts. -->
+<script>
+(function () {
+  var plugins = 'https://baojie.github.io/memex/dist/plugins/';
+  var map = '{"imports":{"@wiki/local/":"./local/","@wiki/plugins/":"' + plugins + '"}}';
+  document.write('<script type="importmap">' + map + '<' + '/script>');
+}());
+</script>
+
+<!-- External dependencies (always loaded from CDN) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+<!-- Engine stylesheet pinned to the tested CDN build. -->
+<link id="main-css" rel="stylesheet" href="https://baojie.github.io/memex/dist/css/memex.min.ef14e308af.css">
+
+<!-- local/local.css — local override, appended dynamically to ensure it comes after the engine stylesheet -->
+<script>
+(function() {
+  var el = document.createElement('link');
+  el.rel = 'stylesheet';
+  el.href = './local/local.css';
+  document.head.appendChild(el);
+}());
+</script>
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a href="#" class="brand">书境 <span>FolioAtlas</span></a>
+    <form class="topnav-search" id="topnav-form">
+      <input id="topnav-q" name="q" type="search"
+             placeholder="搜索词条…" data-i18n-placeholder="search_placeholder"
+             autocomplete="off" list="topnav-pages">
+      <datalist id="topnav-pages"></datalist>
+    </form>
+    <span id="crumb" class="crumb"></span>
+    <span class="spacer"></span>
+    <a href="#%E4%BA%A4%E7%BB%87%E6%97%B6%E9%97%B4%E7%BA%BF" class="topnav-link">交织时间线</a>
+    <a href="#Special%3AAllPages" class="topnav-link" data-i18n="all_pages">所有页面</a>
+    
+    <a href="#Special%3ARandom"   class="topnav-link" data-i18n="random">随机页面</a>
+    
+    <div class="settings-wrap">
+      <button id="settings-toggle" class="topnav-link topnav-btn" data-i18n="settings">设置</button>
+      <div id="settings-panel" class="settings-panel" hidden>
+        <label class="setting-item">
+          <input type="checkbox" id="setting-autolink">
+          <span data-i18n="auto_wikilink">自动 Wikilink</span>
+        </label>
+      </div>
+    </div>
+    <a href="#About" class="topnav-link" data-i18n="about">关于</a>
+    <span id="status" class="status"></span>
+  </div>
+</nav>
+
+<main class="page" id="page-root">
+  <aside class="toc-sidebar" id="toc-sidebar" hidden></aside>
+  <aside class="sidebar" id="sidebar" hidden>
+    <div class="infobox" id="infobox" hidden></div>
+    <figure class="sidebar-portrait" id="sidebar-portrait" hidden></figure>
+  </aside>
+  <article id="article">
+    <p class="loading" data-i18n="loading">加载中…</p>
+  </article>
+</main>
+
+<footer>
+  <small>
+    <span id="src-info"></span>
+    <span id="broken-info"></span>
+    <span class="footer-license">
+      书境 FolioAtlas · 精编阅读演示 · 内容设计：蔡睿麟 · Wiki 运行时：Memex
+    </span>
+  </small>
+</footer>
+
+<!-- Engine module pinned to the tested CDN build. -->
+<script type="module" id="main-js" src="https://baojie.github.io/memex/dist/js/memex.min.04e7bf440c.js"></script>
+
+<!-- Settings panel toggle -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var toggle = document.getElementById('settings-toggle');
+  var panel  = document.getElementById('settings-panel');
+  if (!toggle || !panel) return;
+  toggle.addEventListener('click', function(e) {
+    e.stopPropagation();
+    panel.hidden = !panel.hidden;
+  });
+  document.addEventListener('click', function(e) {
+    if (!panel.hidden && !panel.contains(e.target) && e.target !== toggle) {
+      panel.hidden = true;
+    }
+  });
+});
+</script>
+
+<!-- Search box autocomplete -->
+<script>
+fetch('pages.lite.json').then(function(r){ return r.json(); }).then(function(data){
+  var dl = document.getElementById('topnav-pages');
+  var pages = data.pages ? Object.values(data.pages) : [];
+  var labelToId = {};
+  pages.forEach(function(p){
+    var label = p.label || p.id || '';
+    var o = document.createElement('option'); o.value = label; dl.appendChild(o);
+    labelToId[label] = p.id || label;
+    labelToId[p.id || label] = p.id || label;
+    (p.aliases||[]).forEach(function(a){
+      if(typeof a==='string'){
+        var ao=document.createElement('option'); ao.value=a; dl.appendChild(ao);
+        labelToId[a]=p.id||label;
+      }
+    });
+  });
+  document.getElementById('topnav-form').addEventListener('submit',function(e){
+    e.preventDefault();
+    var v=document.getElementById('topnav-q').value.trim();
+    if(!v)return;
+    var pid=labelToId[v];
+    location.hash=pid?encodeURIComponent(pid):encodeURIComponent('Special:AllPages')+'?s='+encodeURIComponent(v);
+  });
+}).catch(function(){
+  document.getElementById('topnav-form').addEventListener('submit',function(e){
+    e.preventDefault();
+    var v=document.getElementById('topnav-q').value.trim();
+    if(v) location.hash=encodeURIComponent(v);
+  });
+});
+</script>
+
+</body>
+</html>

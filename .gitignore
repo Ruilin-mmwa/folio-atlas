@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+*.log
+corpus/
+logs/
+*.epub
+*.pdf
+*fts-index*
+*sentence_index*

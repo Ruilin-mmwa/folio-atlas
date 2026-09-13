@@ -1,0 +1,151 @@
+{
+  "plugins": [
+    {
+      "id": "i18n",
+      "entry": "plugins/i18n/index.js",
+      "name": "i18n",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "variable",
+      "entry": "plugins/variable/index.js",
+      "name": "variable",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "browse",
+      "entry": "plugins/browse/index.js",
+      "name": "browse",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "sidebar",
+      "entry": "plugins/sidebar/index.js",
+      "name": "sidebar",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "bold-terms",
+      "entry": "plugins/bold-terms/index.js",
+      "name": "bold-terms",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "event-linkify",
+      "entry": "plugins/event-linkify/index.js",
+      "name": "event-linkify",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "category",
+      "entry": "plugins/category/index.js",
+      "name": "category",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "page-footer",
+      "entry": "plugins/page-footer/index.js",
+      "name": "page-footer",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "toc",
+      "entry": "plugins/toc/index.js",
+      "name": "toc",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "infobox",
+      "entry": "plugins/infobox/index.js",
+      "name": "infobox",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "hero",
+      "entry": "plugins/hero/index.js",
+      "name": "hero",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "search",
+      "entry": "plugins/search/index.js",
+      "name": "search",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "home",
+      "entry": "plugins/home/index.js",
+      "name": "home",
+      "core": true,
+      "localConfig": "optional"
+    },
+    {
+      "id": "autolink",
+      "entry": "plugins/autolink/index.js",
+      "name": "autolink",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "figure-viewer",
+      "entry": "plugins/figure-viewer/index.js",
+      "name": "figure-viewer",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "backlinks",
+      "entry": "plugins/backlinks/index.js",
+      "name": "backlinks",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "sealso",
+      "entry": "plugins/sealso/index.js",
+      "name": "sealso",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "source-view",
+      "entry": "plugins/source-view/index.js",
+      "name": "source-view",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "anchor",
+      "entry": "plugins/anchor/index.js",
+      "name": "anchor",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "graph",
+      "entry": "plugins/graph/index.js",
+      "name": "graph",
+      "core": false,
+      "localConfig": "optional"
+    },
+    {
+      "id": "graph-kernel",
+      "entry": "plugins/graph-kernel/index.js",
+      "name": "graph-kernel",
+      "core": false,
+      "localConfig": "optional"
+    }
+  ]
+}

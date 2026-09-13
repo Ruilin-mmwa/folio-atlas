@@ -1,0 +1,1789 @@
+{
+  "_schema_version": 2,
+  "pages": {
+    "About": {
+      "type": "overview",
+      "label": "关于书境",
+      "aliases": [
+        "About"
+      ],
+      "tags": [],
+      "description": "书境 FolioAtlas：将长文本组织为可以探索的知识世界。",
+      "quality": "standard",
+      "path": "ab/About.md",
+      "prose_len": 552,
+      "prose_chars": 509,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "阿兰": {
+      "type": "person",
+      "label": "阿兰",
+      "aliases": [
+        "Alain"
+      ],
+      "tags": [
+        "配角",
+        "画家",
+        "鸡尾酒会"
+      ],
+      "description": "玛丽-克洛德鸡尾酒会上的画家。用摄影与油画糅合的新技法创作，却被玛丽-安娜当众嘘声打断；他是萨比娜\"私生活被打开\"想象中晃动的一个头。",
+      "quality": "standard",
+      "path": "al/阿兰.md",
+      "prose_len": 163,
+      "prose_chars": 143,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "阿姆斯特丹": {
+      "type": "place",
+      "label": "阿姆斯特丹",
+      "aliases": [
+        "Amsterdam"
+      ],
+      "tags": [
+        "城市",
+        "场景",
+        "荷兰"
+      ],
+      "description": "荷兰城市。弗兰茨与萨比娜在此看到妓女隔间与十四世纪哥特式教堂隔街对峙的奇景；老教堂的空荡让弗兰茨迷住，萨比娜则在此顿悟\"美就是被背弃的世界\"。",
+      "quality": "standard",
+      "path": "am/阿姆斯特丹.md",
+      "prose_len": 166,
+      "prose_chars": 146,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "安娜-卡列宁娜": {
+      "type": "concept",
+      "label": "安娜·卡列宁娜",
+      "aliases": [
+        "《安娜·卡列宁娜》",
+        "Anna Karenina",
+        "安娜"
+      ],
+      "tags": [
+        "文学母题",
+        "托尔斯泰",
+        "特蕾莎"
+      ],
+      "description": "托尔斯泰的长篇小说《安娜·卡列宁娜》，在《不能承受的生命之轻》中是贯穿特蕾莎命运的核心文学母题：她第一次见托马斯时腋下夹着这本书，狗卡列宁的名字也源于它；002-209 却称之为特蕾莎\"用来欺骗托马斯的假身份证\"。",
+      "quality": "standard",
+      "path": "an/安娜-卡列宁娜.md",
+      "prose_len": 233,
+      "prose_chars": 206,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "巴勒莫": {
+      "type": "place",
+      "label": "巴勒莫",
+      "aliases": [
+        "Palermo"
+      ],
+      "tags": [
+        "城市",
+        "目的地",
+        "意大利"
+      ],
+      "description": "意大利西西里岛城市。在《不能承受的生命之轻》中作为弗兰茨提议与萨比娜同游的目的地出现，从未被造访；\"到巴勒莫去！\"在弗兰茨心中是一个情欲的明示。",
+      "quality": "standard",
+      "path": "ba/巴勒莫.md",
+      "prose_len": 165,
+      "prose_chars": 145,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "巴门尼德": {
+      "type": "person",
+      "label": "巴门尼德",
+      "aliases": [
+        "Parmenides",
+        "巴门尼德斯"
+      ],
+      "tags": [
+        "历史人物",
+        "前苏格拉底哲学家",
+        "轻与重"
+      ],
+      "description": "公元前六世纪的前苏格拉底哲学家。他在《不能承受的生命之轻》中是\"轻与重\"二元论的哲学源头：判定\"轻者为正，重者为负\"，托马斯后半生正是在按他的精神把重变为轻。",
+      "quality": "standard",
+      "path": "ba/巴门尼德.md",
+      "prose_len": 192,
+      "prose_chars": 170,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "巴黎": {
+      "type": "place",
+      "label": "巴黎",
+      "aliases": [
+        "Paris"
+      ],
+      "tags": [
+        "城市",
+        "流亡地",
+        "法国"
+      ],
+      "description": "法国首都。弗兰茨青年时在此求学、游行，萨比娜离开日内瓦后移居此处，在此收到托马斯与特蕾莎死讯的来信。第六章中，也是\"伟大的进军\"活动的出发地。",
+      "quality": "standard",
+      "path": "ba/巴黎.md",
+      "prose_len": 215,
+      "prose_chars": 185,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "背叛": {
+      "type": "concept",
+      "label": "背叛",
+      "aliases": [
+        "betrayal",
+        "trahison"
+      ],
+      "tags": [
+        "核心概念",
+        "萨比娜",
+        "特蕾莎",
+        "弗兰茨",
+        "忠诚"
+      ],
+      "description": "「背叛」在昆德拉笔下被萨比娜体验为一种解放与美感——背叛家庭、背叛忠诚、背叛媚俗，是她生命中最核心的行进节奏。",
+      "quality": "standard",
+      "path": "be/背叛.md",
+      "prose_len": 179,
+      "prose_chars": 153,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "贝多芬": {
+      "type": "person",
+      "label": "贝多芬",
+      "aliases": [
+        "Ludwig van Beethoven"
+      ],
+      "tags": [
+        "历史人物",
+        "音乐家",
+        "es muss sein"
+      ],
+      "description": "德国作曲家。\"非如此不可\"（es muss sein）出自他最后一部四重奏的最后一个乐章，是《不能承受的生命之轻》中\"重、必然与价值\"的音乐化身，托马斯与特蕾莎命运的暗线。",
+      "quality": "standard",
+      "path": "be/贝多芬.md",
+      "prose_len": 209,
+      "prose_chars": 183,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "彼得山": {
+      "type": "place",
+      "label": "彼得山",
+      "aliases": [
+        "Petřín",
+        "佩特任山"
+      ],
+      "tags": [
+        "场所",
+        "布拉格",
+        "创伤"
+      ],
+      "description": "位于布拉格市中心的一座树木葱茏的山丘。在《不能承受的生命之轻》第四部中，是\"持枪男人\"假处决仪式的发生地，特蕾莎创伤记忆的核心场景。",
+      "quality": "standard",
+      "path": "bi/彼得山.md",
+      "prose_len": 176,
+      "prose_chars": 154,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "毕加索": {
+      "type": "person",
+      "label": "毕加索",
+      "aliases": [
+        "Pablo Picasso"
+      ],
+      "tags": [
+        "历史人物",
+        "艺术",
+        "背叛"
+      ],
+      "description": "西班牙画家。在《不能承受的生命之轻》中作为萨比娜\"背叛\"主题的艺术参照出现：她父亲嘲笑毕加索，美术学院又禁止像毕加索那样作画，于是毕加索成了她反抗父权与体制的象征。",
+      "quality": "standard",
+      "path": "bi/毕加索.md",
+      "prose_len": 176,
+      "prose_chars": 156,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "波希米亚": {
+      "type": "place",
+      "label": "波希米亚",
+      "aliases": [
+        "Bohemia",
+        "Čechy"
+      ],
+      "tags": [
+        "地理区域",
+        "文化背景",
+        "乡村"
+      ],
+      "description": "捷克西部历史地区，《不能承受的生命之轻》中特蕾莎的故乡、托马斯与特蕾莎最终归隐之地。",
+      "quality": "standard",
+      "path": "bo/波希米亚.md",
+      "prose_len": 195,
+      "prose_chars": 165,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "不解之词": {
+      "type": "concept",
+      "label": "不解之词",
+      "aliases": [
+        "Misunderstood Words",
+        "mots incompris"
+      ],
+      "tags": [
+        "核心概念",
+        "萨比娜",
+        "弗兰茨",
+        "误解",
+        "辞典"
+      ],
+      "description": "「不解之词」是昆德拉在第三部中以辞典形式编排的核心叙事装置——萨比娜与弗兰茨对同一词汇的截然不同的理解，揭示了人与人之间根本性的误解。",
+      "quality": "standard",
+      "path": "bu/不解之词.md",
+      "prose_len": 178,
+      "prose_chars": 154,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "布拉格": {
+      "type": "place",
+      "label": "布拉格",
+      "aliases": [
+        "Prague",
+        "Praha"
+      ],
+      "tags": [
+        "城市",
+        "主要场景",
+        "中欧"
+      ],
+      "description": "捷克首都，《不能承受的生命之轻》的主要故事发生地，托马斯和特蕾莎在此相遇、生活、离开又回归，也是1968年苏联入侵捷克斯洛伐克的核心舞台。",
+      "quality": "standard",
+      "path": "bu/布拉格.md",
+      "prose_len": 212,
+      "prose_chars": 182,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "达夫尼斯与赫洛亚": {
+      "type": "concept",
+      "label": "达夫尼斯与赫洛亚",
+      "aliases": [
+        "Daphnis and Chloe",
+        "达夫尼斯和赫洛亚"
+      ],
+      "tags": [
+        "文学母题",
+        "田园牧歌",
+        "爱侣"
+      ],
+      "description": "古希腊田园爱情小说《达夫尼斯与赫洛亚》中的爱侣，象征未经冲突污染的伊甸园式爱情。在后记《大写的牧歌与小写的牧歌》中是\"牧歌\"图景的核心符号。",
+      "quality": "standard",
+      "path": "da/达夫尼斯与赫洛亚.md",
+      "prose_len": 161,
+      "prose_chars": 141,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "雕塑家": {
+      "type": "person",
+      "label": "雕塑家",
+      "aliases": [
+        "雕塑家",
+        "捂手指的雕塑家"
+      ],
+      "tags": [
+        "配角",
+        "艺术家",
+        "鸡尾酒会"
+      ],
+      "description": "玛丽-克洛德鸡尾酒会上的雕塑家，因一次凿木头差点削断食指而留下心理创伤，说话时总捂着自己的手指；\"永远别想叫我上汽车\"是他最著名的台词。",
+      "quality": "standard",
+      "path": "di/雕塑家.md",
+      "prose_len": 155,
+      "prose_chars": 137,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "杜布切克": {
+      "type": "person",
+      "label": "杜布切克",
+      "aliases": [
+        "亚历山大·杜布切克",
+        "Alexander Dubček"
+      ],
+      "tags": [
+        "历史人物",
+        "历史引用",
+        "软弱"
+      ],
+      "description": "1968年捷克斯洛伐克改革时期的领导人。在《不能承受的生命之轻》中是\"软弱\"论述的核心历史人物：他从莫斯科返回后的广播演说，那段长时间的停顿，成为特蕾莎理解\"面对强力人总是软弱\"的转折点。",
+      "quality": "standard",
+      "path": "du/杜布切克.md",
+      "prose_len": 194,
+      "prose_chars": 174,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "俄狄浦斯": {
+      "type": "concept",
+      "label": "俄狄浦斯",
+      "aliases": [
+        "Oedipus",
+        "俄狄浦斯王"
+      ],
+      "tags": [
+        "核心意象",
+        "希腊悲剧",
+        "弃婴"
+      ],
+      "description": "索福克勒斯悲剧《俄狄浦斯王》的主角。在《不能承受的生命之轻》中是贯穿全书的核心意象：托马斯那篇导致其职业毁灭的文章写的就是他；\"被弃之婴\"的母题也与他相关——他代表\"因不知而犯罪仍须承担罪责\"的道德难题。",
+      "quality": "standard",
+      "path": "ed/俄狄浦斯.md",
+      "prose_len": 204,
+      "prose_chars": 182,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "Es-muss-sein": {
+      "type": "concept",
+      "label": "Es muss sein",
+      "aliases": [
+        "非如此不可",
+        "Es muß sein",
+        "It must be"
+      ],
+      "tags": [
+        "核心概念",
+        "贝多芬",
+        "必然性",
+        "托马斯",
+        "职业"
+      ],
+      "description": "「Es muss sein」（非如此不可）是贝多芬最后一首四重奏的动机题词，昆德拉将其转化为贯穿全书的核心哲学命题，追问爱情、职业与生命中是否有「非如此不可」的必然性。",
+      "quality": "standard",
+      "path": "es/Es-muss-sein.md",
+      "prose_len": 227,
+      "prose_chars": 195,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "粪便与上帝": {
+      "type": "concept",
+      "label": "粪便与上帝",
+      "aliases": [
+        "shit and God",
+        "merde et Dieu"
+      ],
+      "tags": [
+        "核心概念",
+        "媚俗",
+        "神学",
+        "斯大林之子",
+        "神正论"
+      ],
+      "description": "「粪便与上帝」是昆德拉以神学论证推导出媚俗定义的哲学链条——粪便作为创世论的终极难题，引向「媚俗是对粪便的绝对否定」这一核心定义。",
+      "quality": "standard",
+      "path": "fe/粪便与上帝.md",
+      "prose_len": 137,
+      "prose_chars": 121,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "非刻意的美": {
+      "type": "concept",
+      "label": "非刻意的美",
+      "aliases": [
+        "纽约之美",
+        "错误的美",
+        "被背弃的美"
+      ],
+      "tags": [
+        "不解之词",
+        "概念",
+        "美学"
+      ],
+      "description": "《不能承受的生命之轻》第三部\"不解之词简编\"中的词条\"纽约之美\"。指不经人的预先谋划而自然天成的美，又称\"错误的美\"；阿姆斯特丹古教堂一节又把它推向\"美就是被背弃的世界\"。",
+      "quality": "standard",
+      "path": "fe/非刻意的美.md",
+      "prose_len": 219,
+      "prose_chars": 191,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "弗兰茨": {
+      "type": "person",
+      "label": "弗兰茨",
+      "aliases": [
+        "Franz",
+        "弗朗茨"
+      ],
+      "tags": [
+        "核心人物",
+        "教授",
+        "伟大进军",
+        "萨比娜",
+        "媚俗",
+        "欧洲"
+      ],
+      "description": "希望让私人情感与公共理想相互印证的大学教授。他的庄严与萨比娜的怀疑形成持续错位。",
+      "quality": "featured",
+      "path": "fu/弗兰茨.md",
+      "prose_len": 326,
+      "prose_chars": 289,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "告别圆舞曲": {
+      "type": "concept",
+      "label": "告别圆舞曲",
+      "aliases": [
+        "《告别圆舞曲》",
+        "The Farewell Waltz"
+      ],
+      "tags": [
+        "昆德拉作品",
+        "跨作品引用"
+      ],
+      "description": "昆德拉的小说《告别圆舞曲》。在《不能承受的生命之轻》后记中被引用，其中雅库布的\"生存与思\"是一例。",
+      "quality": "standard",
+      "path": "ga/告别圆舞曲.md",
+      "prose_len": 122,
+      "prose_chars": 106,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "工程师": {
+      "type": "person",
+      "label": "工程师",
+      "aliases": [
+        "假工程师",
+        "那男人"
+      ],
+      "tags": [
+        "次要人物",
+        "特蕾莎",
+        "谜团人物"
+      ],
+      "description": "昆德拉《不能承受的生命之轻》第四部中与特蕾莎有过一夜风流的神秘男子。他自称工程师，邀特蕾莎到家中，家中却放着一本《俄狄浦斯》——特蕾莎疑心他是警察设下的陷阱。",
+      "quality": "standard",
+      "path": "go/工程师.md",
+      "prose_len": 183,
+      "prose_chars": 161,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "光明与黑暗": {
+      "type": "concept",
+      "label": "光明与黑暗",
+      "aliases": [
+        "光明与黑暗的意象",
+        "light and dark"
+      ],
+      "tags": [
+        "不解之词",
+        "概念",
+        "视觉"
+      ],
+      "description": "《不能承受的生命之轻》第三部\"不解之词简编\"中的词条。萨比娜以\"观看\"为生，强光与完全黑暗是生命的两重边界；弗兰茨把光明当作真理之源，又在肉体的黑暗中寻求无限。",
+      "quality": "standard",
+      "path": "gu/光明与黑暗.md",
+      "prose_len": 193,
+      "prose_chars": 169,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "活在真实里": {
+      "type": "concept",
+      "label": "活在真实里",
+      "aliases": [
+        "生活在真实中",
+        "Living in Truth",
+        "life in truth"
+      ],
+      "tags": [
+        "核心概念",
+        "昆德拉",
+        "不解之词"
+      ],
+      "description": "昆德拉《不能承受的生命之轻》第三部\"不解之词简编\"中的一个词条。语出卡夫卡，意为不说谎、不欺骗、不隐瞒；弗兰茨认为要消除私人生活与公众的界限，萨比娜则认为唯有与世隔绝才能活在真实中。",
+      "quality": "standard",
+      "path": "hu/活在真实里.md",
+      "prose_len": 203,
+      "prose_chars": 179,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "交织时间线": {
+      "type": "overview",
+      "label": "交织时间线",
+      "aliases": [
+        "人物时间线",
+        "故事时间线",
+        "同期人物",
+        "Braided Timeline"
+      ],
+      "tags": [
+        "时间线",
+        "核心人物",
+        "叙事结构",
+        "视觉导览"
+      ],
+      "description": "四幕、十二个时间切片，在同一阶段并看不同命运。人物、地点与概念由每个切片彼此连接。",
+      "quality": "featured",
+      "image": "images/timeline/1950s-four-origins-v1.webp",
+      "path": "ji/交织时间线.md",
+      "prose_len": 22879,
+      "prose_chars": 21918,
+      "h2_count": 6,
+      "pn_count": 0,
+      "wikilink_count": 60,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "柬埔寨": {
+      "type": "place",
+      "label": "柬埔寨",
+      "aliases": [
+        "Cambodia"
+      ],
+      "tags": [
+        "场所",
+        "国家",
+        "伟大的进军"
+      ],
+      "description": "东南亚国家。在《不能承受的生命之轻》第六部中是\"伟大的进军\"的目的地，弗兰茨在此为向柬埔寨边境进军而丧命；昆德拉将它比作被邻国占领、遭受轰炸的受难国。",
+      "quality": "standard",
+      "path": "ji/柬埔寨.md",
+      "prose_len": 168,
+      "prose_chars": 148,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "卡列宁": {
+      "type": "person",
+      "label": "卡列宁",
+      "aliases": [
+        "Karenin",
+        "卡列宁娜"
+      ],
+      "tags": [
+        "核心人物",
+        "狗",
+        "动物",
+        "特蕾莎",
+        "托马斯",
+        "乡村"
+      ],
+      "description": "卡列宁是托马斯与特蕾莎养的一条狗，名字源自托尔斯泰《安娜·卡列宁娜》，在小说第七部中成为特蕾莎最重要的情感寄托与「牧歌」生活的核心象征。",
+      "quality": "standard",
+      "path": "ka/卡列宁.md",
+      "prose_len": 170,
+      "prose_chars": 148,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "力量": {
+      "type": "concept",
+      "label": "力量",
+      "aliases": [
+        "strength",
+        "强力",
+        "软弱"
+      ],
+      "tags": [
+        "不解之词",
+        "概念",
+        "爱情"
+      ],
+      "description": "《不能承受的生命之轻》第三部\"不解之词简编\"中的词条。弗兰茨把力量理解为对外的保护与肌肉，萨比娜却看穿\"他的力量仅仅是对外的\"；\"因为爱就是放弃力量\"这句话，让弗兰茨在情欲里威风不再。",
+      "quality": "standard",
+      "path": "li/力量.md",
+      "prose_len": 205,
+      "prose_chars": 181,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "灵与肉": {
+      "type": "concept",
+      "label": "灵与肉",
+      "aliases": [
+        "soul and body",
+        "l'âme et le corps"
+      ],
+      "tags": [
+        "核心概念",
+        "对题",
+        "特蕾莎",
+        "肉体",
+        "灵魂",
+        "镜像"
+      ],
+      "description": "「灵与肉」是昆德拉探讨的人类根本体验——肉体和灵魂之间不可调和的两重性，以特蕾莎的身体经验与镜像行为作为核心叙事载体。",
+      "quality": "standard",
+      "path": "li/灵与肉.md",
+      "prose_len": 201,
+      "prose_chars": 171,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "罗伯斯庇尔": {
+      "type": "person",
+      "label": "罗伯斯庇尔",
+      "aliases": [
+        "Maximilien Robespierre"
+      ],
+      "tags": [
+        "历史人物",
+        "历史引用",
+        "永恒轮回"
+      ],
+      "description": "法国大革命时期的政治家。在《不能承受的生命之轻》第一章作为\"永恒轮回\"论述的核心例证：正因为法国大革命只发生一次、不会重演，史书才以罗伯斯庇尔为荣。",
+      "quality": "standard",
+      "path": "lu/罗伯斯庇尔.md",
+      "prose_len": 168,
+      "prose_chars": 148,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "玛丽-克洛德": {
+      "type": "person",
+      "label": "玛丽-克洛德",
+      "aliases": [
+        "Marie-Claude"
+      ],
+      "tags": [
+        "次要人物",
+        "弗兰茨的妻子",
+        "瑞士"
+      ],
+      "description": "昆德拉《不能承受的生命之轻》中弗兰茨的妻子。强势、健谈、生命力旺盛的日内瓦女人，以自杀相威胁将弗兰茨留在了婚姻里，最终以一场如同婚礼的葬礼从丈夫身上赢回自己的位置。",
+      "quality": "standard",
+      "path": "ma/玛丽-克洛德.md",
+      "prose_len": 184,
+      "prose_chars": 162,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "玛丽-安娜": {
+      "type": "person",
+      "label": "玛丽-安娜",
+      "aliases": [
+        "Marie-Anne"
+      ],
+      "tags": [
+        "配角",
+        "弗兰茨之女",
+        "瑞士"
+      ],
+      "description": "弗兰茨与玛丽-克洛德的女儿，十八岁。鸡尾酒会上高谈阔论、主导谈话、对画家阿兰嘘声相向，昆德拉说她\"举手投足不像女儿，反倒像另一个玛丽-克洛德\"。",
+      "quality": "standard",
+      "path": "ma/玛丽-安娜.md",
+      "prose_len": 168,
+      "prose_chars": 148,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "媚俗": {
+      "type": "concept",
+      "label": "媚俗",
+      "aliases": [
+        "Kitsch",
+        "刻奇"
+      ],
+      "tags": [
+        "核心概念",
+        "政治哲学",
+        "美学"
+      ],
+      "description": "米兰·昆德拉在《不能承受的生命之轻》中提出的核心哲学概念，指对粪便的绝对否定、心灵的专制，以及人类存在的无条件认同。",
+      "quality": "featured",
+      "path": "me/媚俗.md",
+      "prose_len": 151,
+      "prose_chars": 131,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "摩西": {
+      "type": "person",
+      "label": "摩西",
+      "aliases": [
+        "Moses",
+        "摩西五经"
+      ],
+      "tags": [
+        "圣经人物",
+        "历史引用",
+        "弃婴母题"
+      ],
+      "description": "《旧约》中的先知，婴儿时被装在摇篮里顺水漂流、为法老的女儿所救。在《不能承受的生命之轻》中是全书\"被遗弃的孩子\"母题的圣经源头之一，与特蕾莎\"放在涂了树脂的篮子里顺水漂来\"的形象呼应。",
+      "quality": "standard",
+      "path": "mo/摩西.md",
+      "prose_len": 188,
+      "prose_chars": 168,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "墓地": {
+      "type": "concept",
+      "label": "墓地",
+      "aliases": [
+        "cemetery",
+        "公墓",
+        "坟场"
+      ],
+      "tags": [
+        "不解之词",
+        "概念",
+        "空间"
+      ],
+      "description": "《不能承受的生命之轻》第三部\"不解之词简编\"中的词条。对萨比娜，波希米亚的墓地像花园，是唤起对故乡眷恋的惟一词语；对弗兰茨，墓地只是倾倒尸骸和乱石的垃圾场。",
+      "quality": "standard",
+      "path": "mu/墓地.md",
+      "prose_len": 203,
+      "prose_chars": 177,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "牧歌": {
+      "type": "event",
+      "label": "牧歌",
+      "aliases": [
+        "Idyll",
+        "田园牧歌",
+        "大写的牧歌与小写的牧歌"
+      ],
+      "tags": [
+        "核心主题",
+        "哲学概念",
+        "叙事事件"
+      ],
+      "description": "《不能承受的生命之轻》的核心意象之一，以大写的牧歌与小写的牧歌作为全书结尾的哲学框架，指向人类对和谐、统一、排除异质的永恒渴望及其悖论。",
+      "quality": "standard",
+      "path": "mu/牧歌.md",
+      "prose_len": 213,
+      "prose_chars": 183,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "目录": {
+      "type": "overview",
+      "label": "阅读地图",
+      "aliases": [
+        "目录",
+        "Table of Contents",
+        "TOC"
+      ],
+      "tags": [],
+      "description": "按人物、概念、地点和事件浏览本演示的精编词条。",
+      "quality": "standard",
+      "path": "mu/目录.md",
+      "prose_len": 753,
+      "prose_chars": 606,
+      "h2_count": 4,
+      "pn_count": 0,
+      "wikilink_count": 66,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "尼采": {
+      "type": "person",
+      "label": "尼采",
+      "aliases": [
+        "Friedrich Nietzsche",
+        "弗里德里希·尼采"
+      ],
+      "tags": [
+        "历史人物",
+        "哲学家",
+        "永恒轮回"
+      ],
+      "description": "德国哲学家。在《不能承受的生命之轻》中是\"永恒轮回\"思想的提出者，也是都灵街头那匹被鞭打之马的忏悔者——昆德拉说，尼采正是在为笛卡尔向马道歉的瞬间精神失常的。",
+      "quality": "standard",
+      "path": "ni/尼采.md",
+      "prose_len": 182,
+      "prose_chars": 160,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "纽约": {
+      "type": "place",
+      "label": "纽约",
+      "aliases": [
+        "New York",
+        "纽约市"
+      ],
+      "tags": [
+        "城市",
+        "场景",
+        "美国"
+      ],
+      "description": "美国城市。弗兰茨与萨比娜在此漫步，\"非刻意的美\"（纽约之美）词条的背景城市；昆德拉说，对萨比娜的画来说，纽约才是\"其隐秘但真正的祖国\"。",
+      "quality": "standard",
+      "path": "ni/纽约.md",
+      "prose_len": 172,
+      "prose_chars": 150,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "女大学生": {
+      "type": "person",
+      "label": "女大学生",
+      "aliases": [
+        "戴眼镜的女大学生",
+        "戴眼镜的女孩"
+      ],
+      "tags": [
+        "配角",
+        "弗兰茨",
+        "未具名"
+      ],
+      "description": "弗兰茨晚年的女友，未具名的女大学生，总是戴着一副时髦的大眼镜。弗兰茨临死前只想见到她，她是他在\"伟大的进军\"与私人爱情之间选择的注脚。",
+      "quality": "standard",
+      "path": "nv/女大学生.md",
+      "prose_len": 163,
+      "prose_chars": 143,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "偶然与必然": {
+      "type": "concept",
+      "label": "偶然与必然",
+      "aliases": [
+        "chance and necessity",
+        "hasard et nécessité"
+      ],
+      "tags": [
+        "核心概念",
+        "对题",
+        "托马斯",
+        "特蕾莎",
+        "贝多芬"
+      ],
+      "description": "「偶然与必然」是贯穿《不能承受的生命之轻》全书的对题概念——偶然的巧合具有魔力与意义，必然则与重、价值相连。",
+      "quality": "standard",
+      "path": "ou/偶然与必然.md",
+      "prose_len": 179,
+      "prose_chars": 153,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "请愿书": {
+      "type": "event",
+      "label": "请愿书",
+      "aliases": [
+        "赦免政治犯请愿书",
+        "大赦请愿书"
+      ],
+      "tags": [
+        "政治事件",
+        "道德抉择",
+        "第五部"
+      ],
+      "description": "《不能承受的生命之轻》第五部中，西蒙与尖下巴记者为赦免政治犯而起草、征集签名的请愿书。托马斯拒绝签名——他选择特蕾莎而非历史。",
+      "quality": "standard",
+      "path": "qi/请愿书.md",
+      "prose_len": 182,
+      "prose_chars": 158,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "轻与重": {
+      "type": "concept",
+      "label": "轻与重",
+      "aliases": [
+        "lightness and weight",
+        "leggerezza e peso"
+      ],
+      "tags": [
+        "核心概念",
+        "对题",
+        "巴门尼德",
+        "尼采",
+        "永恒轮回"
+      ],
+      "description": "「轻与重」是《不能承受的生命之轻》最核心的哲学对题，源自巴门尼德的二元对立论并经由尼采的永恒轮回重新激活——最沉重的负担也是最真切实在的，而完全的轻盈则意味着意义的消失。",
+      "quality": "featured",
+      "path": "qi/轻与重.md",
+      "prose_len": 228,
+      "prose_chars": 198,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "日内瓦": {
+      "type": "place",
+      "label": "日内瓦",
+      "aliases": [
+        "Geneva",
+        "Genève"
+      ],
+      "tags": [
+        "城市",
+        "流亡地",
+        "瑞士"
+      ],
+      "description": "瑞士城市，萨比娜流亡居住四年的地方，也是弗兰茨任教的大学城。第三部《不解之词》的主要场景，弗兰茨与萨比娜的地下恋情在此展开，弗兰茨最终也死在这座城市的医院里。",
+      "quality": "standard",
+      "path": "ri/日内瓦.md",
+      "prose_len": 205,
+      "prose_chars": 179,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "萨比娜": {
+      "type": "person",
+      "label": "萨比娜",
+      "aliases": [
+        "Sabina",
+        "萨宾娜"
+      ],
+      "tags": [
+        "核心人物",
+        "画家",
+        "背叛",
+        "媚俗",
+        "弗兰茨",
+        "托马斯"
+      ],
+      "description": "不断离开既定身份与生活秩序的画家。艺术、迁移与亲密关系共同构成她的自由实践。",
+      "quality": "featured",
+      "path": "sa/萨比娜.md",
+      "prose_len": 318,
+      "prose_chars": 281,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "生活在别处": {
+      "type": "concept",
+      "label": "生活在别处",
+      "aliases": [
+        "《生活在别处》",
+        "Life Is Elsewhere"
+      ],
+      "tags": [
+        "昆德拉作品",
+        "跨作品引用",
+        "牧歌"
+      ],
+      "description": "昆德拉的小说《生活在别处》。在后记《大写的牧歌与小写的牧歌》中被引用，其第六部分中\"安宁的间歇\"（雅罗米尔的非命运牧歌）是分析重点。",
+      "quality": "standard",
+      "path": "sh/生活在别处.md",
+      "prose_len": 148,
+      "prose_chars": 130,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "诗化记忆": {
+      "type": "concept",
+      "label": "诗化记忆",
+      "aliases": [],
+      "tags": [
+        "哲学概念",
+        "爱情",
+        "记忆"
+      ],
+      "description": "米兰·昆德拉在《不能承受的生命之轻》中提出的概念，指大脑中专门记录令人陶醉和感动的体验的区域，是爱情发生的隐喻基础。",
+      "quality": "standard",
+      "path": "sh/诗化记忆.md",
+      "prose_len": 161,
+      "prose_chars": 139,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "司汤达": {
+      "type": "person",
+      "label": "司汤达",
+      "aliases": [
+        "Stendhal",
+        "亨利·贝尔"
+      ],
+      "tags": [
+        "历史人物",
+        "文学",
+        "鸡尾酒会"
+      ],
+      "description": "法国作家。在《不能承受的生命之轻》中仅作为玛丽-克洛德鸡尾酒会上一场\"白天读还是夜里读\"的书籍分类之争出现。",
+      "quality": "standard",
+      "path": "si/司汤达.md",
+      "prose_len": 141,
+      "prose_chars": 123,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "苏联入侵捷克斯洛伐克": {
+      "type": "event",
+      "label": "苏联入侵捷克斯洛伐克",
+      "aliases": [],
+      "tags": [
+        "历史事件",
+        "冷战",
+        "苏联"
+      ],
+      "description": "1968年8月以苏联为首的军队入侵捷克斯洛伐克，镇压布拉格之春改革运动，是《不能承受的生命之轻》的主要历史背景。",
+      "quality": "standard",
+      "path": "su/苏联入侵捷克斯洛伐克.md",
+      "prose_len": 170,
+      "prose_chars": 146,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "苏黎世": {
+      "type": "place",
+      "label": "苏黎世",
+      "aliases": [
+        "Zurich",
+        "Zürich"
+      ],
+      "tags": [
+        "城市",
+        "流亡地",
+        "瑞士"
+      ],
+      "description": "瑞士城市，《不能承受的生命之轻》中托马斯与特蕾莎在1968年入侵后短暂流亡之处，也是萨比娜与托马斯重叙旧情之地。他们在此度过六七个月，最终因特蕾莎的无法承受而返回布拉格。",
+      "quality": "standard",
+      "path": "su/苏黎世.md",
+      "prose_len": 234,
+      "prose_chars": 206,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "塔米娜": {
+      "type": "person",
+      "label": "塔米娜",
+      "aliases": [
+        "Támina"
+      ],
+      "tags": [
+        "跨作品人物",
+        "笑忘录",
+        "牧歌"
+      ],
+      "description": "昆德拉另一部小说《笑忘录》中的女主人公，在《不能承受的生命之轻》后记《大写的牧歌与小写的牧歌》的评论中被反复引用，作为\"小写的牧歌\"栖居者的范例。",
+      "quality": "standard",
+      "path": "ta/塔米娜.md",
+      "prose_len": 175,
+      "prose_chars": 153,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "特蕾莎": {
+      "type": "person",
+      "label": "特蕾莎",
+      "aliases": [
+        "Tereza",
+        "特丽莎"
+      ],
+      "tags": [
+        "主要人物",
+        "女主角"
+      ],
+      "description": "通过摄影、身体经验和亲密关系寻找自我边界的人物。她对独特性的渴望贯穿私人生活与历史现场。",
+      "quality": "featured",
+      "path": "te/特蕾莎.md",
+      "prose_len": 354,
+      "prose_chars": 312,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 10,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "特蕾莎的母亲": {
+      "type": "person",
+      "label": "特蕾莎的母亲",
+      "aliases": [
+        "母亲"
+      ],
+      "tags": [
+        "配角",
+        "特蕾莎",
+        "灵与肉"
+      ],
+      "description": "《不能承受的生命之轻》第二部中特蕾莎的母亲。裸体不避人、照镜子、反复灌输\"做母亲就是牺牲一切\"的压迫性母亲，是特蕾莎身体羞耻与\"灵与肉\"张力的源头。",
+      "quality": "standard",
+      "path": "te/特蕾莎的母亲.md",
+      "prose_len": 157,
+      "prose_chars": 139,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "同情": {
+      "type": "concept",
+      "label": "同情",
+      "aliases": [
+        "compassion",
+        "soucit",
+        "Mitgefühl",
+        "co-feeling"
+      ],
+      "tags": [
+        "核心概念",
+        "托马斯",
+        "特蕾莎",
+        "词源学",
+        "情感"
+      ],
+      "description": "「同情」在昆德拉的词源学分析中被重新定义为「最高境界的情感想象力」——不是对痛苦的怜悯，而是与他人共甘苦的心灵感应艺术，而这种能力同时是托马斯最沉重的负担。",
+      "quality": "standard",
+      "path": "to/同情.md",
+      "prose_len": 171,
+      "prose_chars": 151,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "托马斯": {
+      "type": "person",
+      "label": "托马斯",
+      "aliases": [
+        "Tomas",
+        "Tomáš",
+        "托马什"
+      ],
+      "tags": [
+        "核心人物",
+        "外科医生",
+        "唐璜",
+        "知识分子"
+      ],
+      "description": "在自由与承担之间反复选择的外科医生。职业、亲密关系与历史压力让他的生活轨迹不断改道。",
+      "quality": "featured",
+      "path": "tu/托马斯.md",
+      "prose_len": 358,
+      "prose_chars": 316,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "玩笑": {
+      "type": "concept",
+      "label": "玩笑",
+      "aliases": [
+        "《玩笑》",
+        "The Joke"
+      ],
+      "tags": [
+        "昆德拉作品",
+        "跨作品引用",
+        "牧歌"
+      ],
+      "description": "昆德拉的小说《玩笑》。在后记《大写的牧歌与小写的牧歌》中作为\"牧歌\"主题的早期例证被引用，其主人公路德维克参加的民乐队演出与波希米亚音乐是重点。",
+      "quality": "standard",
+      "path": "wa/玩笑.md",
+      "prose_len": 154,
+      "prose_chars": 136,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "伟大进军": {
+      "type": "concept",
+      "label": "伟大进军",
+      "aliases": [
+        "The Grand March",
+        "la Grande Marche"
+      ],
+      "tags": [
+        "核心概念",
+        "媚俗",
+        "政治",
+        "弗兰茨"
+      ],
+      "description": "「伟大进军」是昆德拉在《不能承受的生命之轻》中提出的政治媚俗概念，指向左翼知识分子对历史进步叙事的集体迷醉。",
+      "quality": "standard",
+      "path": "we/伟大进军.md",
+      "prose_len": 155,
+      "prose_chars": 133,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "希特勒": {
+      "type": "person",
+      "label": "希特勒",
+      "aliases": [
+        "Adolf Hitler",
+        "阿道夫·希特勒"
+      ],
+      "tags": [
+        "历史人物",
+        "历史引用",
+        "永恒轮回"
+      ],
+      "description": "纳粹德国元首。在《不能承受的生命之轻》中作为\"永恒轮回不存在\"的道德论证与历史暴政的例证出现：作者被他的照片触动并与之\"和解\"，而这正是轮回不存在的世界所固有的道德沉沦。",
+      "quality": "standard",
+      "path": "xi/希特勒.md",
+      "prose_len": 188,
+      "prose_chars": 168,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "性友谊": {
+      "type": "concept",
+      "label": "性友谊",
+      "aliases": [],
+      "tags": [
+        "人际关系",
+        "性",
+        "哲学概念"
+      ],
+      "description": "托马斯为在恐惧与渴望之间找到妥协而发明的两性关系原则——无感情投入、互不干涉对方生活和自由、唯有此种关系才能带来快乐。",
+      "quality": "standard",
+      "path": "xi/性友谊.md",
+      "prose_len": 152,
+      "prose_chars": 132,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "笑忘录": {
+      "type": "concept",
+      "label": "笑忘录",
+      "aliases": [
+        "《笑忘录》",
+        "The Book of Laughter and Forgetting"
+      ],
+      "tags": [
+        "昆德拉作品",
+        "跨作品引用",
+        "牧歌"
+      ],
+      "description": "昆德拉的小说《笑忘录》。在后记《大写的牧歌与小写的牧歌》中被反复引用，其女主人公塔米娜是\"小写的牧歌\"栖居者的范例。",
+      "quality": "standard",
+      "path": "xi/笑忘录.md",
+      "prose_len": 155,
+      "prose_chars": 135,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "西蒙": {
+      "type": "person",
+      "label": "西蒙",
+      "aliases": [
+        "西蒙·托马斯",
+        "托马斯的儿子"
+      ],
+      "tags": [
+        "次要人物",
+        "托马斯之子",
+        "梦想家"
+      ],
+      "description": "昆德拉《不能承受的生命之轻》中托马斯与前妻所生的儿子。他从小寻找父亲，卷入请愿书事件，是继弗兰茨之后书中的第二个\"梦想家\"。",
+      "quality": "standard",
+      "path": "xi/西蒙.md",
+      "prose_len": 192,
+      "prose_chars": 166,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "眩晕": {
+      "type": "concept",
+      "label": "眩晕",
+      "aliases": [
+        "vertigo",
+        "vertige"
+      ],
+      "tags": [
+        "核心概念",
+        "特蕾莎",
+        "软弱",
+        "坠落",
+        "身体"
+      ],
+      "description": "「眩晕」在昆德拉的定义中是「沉醉于自身的软弱之中」——一种无法遏止的坠落的欲望，是特蕾莎存在体验的核心概念。",
+      "quality": "standard",
+      "path": "xu/眩晕.md",
+      "prose_len": 147,
+      "prose_chars": 127,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "伊甸": {
+      "type": "concept",
+      "label": "伊甸",
+      "aliases": [
+        "伊甸园",
+        "Eden"
+      ],
+      "tags": [
+        "概念",
+        "牧歌",
+        "原罪"
+      ],
+      "description": "圣经中的乐园。在《不能承受的生命之轻》第七部中是\"牧歌\"的原型：在伊甸园中人还未成其为人，而狗从未被逐出过伊甸园——这是卡列宁与亚当的对比，也是\"人与狗之间的爱是牧歌一样\"的原因。",
+      "quality": "standard",
+      "path": "yi/伊甸.md",
+      "prose_len": 197,
+      "prose_chars": 175,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "音乐": {
+      "type": "concept",
+      "label": "音乐",
+      "aliases": [
+        "music",
+        "噪音"
+      ],
+      "tags": [
+        "不解之词",
+        "概念",
+        "艺术"
+      ],
+      "description": "《不能承受的生命之轻》第三部\"不解之词简编\"中的词条。对弗兰茨，音乐是酒神式的救星；对萨比娜，音乐是以音乐为名的噪音，是\"放出来扑向她的猎犬\"。",
+      "quality": "standard",
+      "path": "yi/音乐.md",
+      "prose_len": 187,
+      "prose_chars": 163,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "永恒轮回": {
+      "type": "concept",
+      "label": "永恒轮回",
+      "aliases": [
+        "Eternal Return",
+        "永恒回归",
+        "永劫回归"
+      ],
+      "tags": [
+        "核心概念",
+        "哲学命题",
+        "尼采"
+      ],
+      "description": "米兰·昆德拉《不能承受的生命之轻》的开篇核心哲学命题——如果生命中的每一个事件都将无限次重复，那么最沉重的负担也是最强烈的生命强度的象征。",
+      "quality": "featured",
+      "path": "yo/永恒轮回.md",
+      "prose_len": 199,
+      "prose_chars": 173,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "游行": {
+      "type": "concept",
+      "label": "游行",
+      "aliases": [
+        "parade",
+        "示威",
+        "伟大的进军"
+      ],
+      "tags": [
+        "不解之词",
+        "概念",
+        "政治"
+      ],
+      "description": "《不能承受的生命之轻》第三部\"不解之词简编\"中的词条。对弗兰茨，游行是欧洲与历史的形象，是\"伟大的进军\"；对萨比娜，结队游行、异口同声呼喊口号的人群，是比入侵更本质的恶。",
+      "quality": "standard",
+      "path": "yo/游行.md",
+      "prose_len": 208,
+      "prose_chars": 182,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "total_refs": 0
+    }
+  },
+  "alias_index": {
+    "About": "About",
+    "关于书境": "About",
+    "阿兰": "阿兰",
+    "Alain": "阿兰",
+    "阿姆斯特丹": "阿姆斯特丹",
+    "Amsterdam": "阿姆斯特丹",
+    "安娜-卡列宁娜": "安娜-卡列宁娜",
+    "安娜·卡列宁娜": "安娜-卡列宁娜",
+    "《安娜·卡列宁娜》": "安娜-卡列宁娜",
+    "Anna Karenina": "安娜-卡列宁娜",
+    "安娜": "安娜-卡列宁娜",
+    "巴勒莫": "巴勒莫",
+    "Palermo": "巴勒莫",
+    "巴门尼德": "巴门尼德",
+    "Parmenides": "巴门尼德",
+    "巴门尼德斯": "巴门尼德",
+    "巴黎": "巴黎",
+    "Paris": "巴黎",
+    "背叛": "背叛",
+    "betrayal": "背叛",
+    "trahison": "背叛",
+    "贝多芬": "贝多芬",
+    "Ludwig van Beethoven": "贝多芬",
+    "彼得山": "彼得山",
+    "Petřín": "彼得山",
+    "佩特任山": "彼得山",
+    "毕加索": "毕加索",
+    "Pablo Picasso": "毕加索",
+    "波希米亚": "波希米亚",
+    "Bohemia": "波希米亚",
+    "Čechy": "波希米亚",
+    "不解之词": "不解之词",
+    "Misunderstood Words": "不解之词",
+    "mots incompris": "不解之词",
+    "布拉格": "布拉格",
+    "Prague": "布拉格",
+    "Praha": "布拉格",
+    "达夫尼斯与赫洛亚": "达夫尼斯与赫洛亚",
+    "Daphnis and Chloe": "达夫尼斯与赫洛亚",
+    "达夫尼斯和赫洛亚": "达夫尼斯与赫洛亚",
+    "雕塑家": "雕塑家",
+    "捂手指的雕塑家": "雕塑家",
+    "杜布切克": "杜布切克",
+    "亚历山大·杜布切克": "杜布切克",
+    "Alexander Dubček": "杜布切克",
+    "俄狄浦斯": "俄狄浦斯",
+    "Oedipus": "俄狄浦斯",
+    "俄狄浦斯王": "俄狄浦斯",
+    "Es-muss-sein": "Es-muss-sein",
+    "Es muss sein": "Es-muss-sein",
+    "非如此不可": "Es-muss-sein",
+    "Es muß sein": "Es-muss-sein",
+    "It must be": "Es-muss-sein",
+    "粪便与上帝": "粪便与上帝",
+    "shit and God": "粪便与上帝",
+    "merde et Dieu": "粪便与上帝",
+    "非刻意的美": "非刻意的美",
+    "纽约之美": "非刻意的美",
+    "错误的美": "非刻意的美",
+    "被背弃的美": "非刻意的美",
+    "弗兰茨": "弗兰茨",
+    "Franz": "弗兰茨",
+    "弗朗茨": "弗兰茨",
+    "告别圆舞曲": "告别圆舞曲",
+    "《告别圆舞曲》": "告别圆舞曲",
+    "The Farewell Waltz": "告别圆舞曲",
+    "工程师": "工程师",
+    "假工程师": "工程师",
+    "那男人": "工程师",
+    "光明与黑暗": "光明与黑暗",
+    "光明与黑暗的意象": "光明与黑暗",
+    "light and dark": "光明与黑暗",
+    "活在真实里": "活在真实里",
+    "生活在真实中": "活在真实里",
+    "Living in Truth": "活在真实里",
+    "life in truth": "活在真实里",
+    "交织时间线": "交织时间线",
+    "人物时间线": "交织时间线",
+    "故事时间线": "交织时间线",
+    "同期人物": "交织时间线",
+    "Braided Timeline": "交织时间线",
+    "柬埔寨": "柬埔寨",
+    "Cambodia": "柬埔寨",
+    "卡列宁": "卡列宁",
+    "Karenin": "卡列宁",
+    "卡列宁娜": "卡列宁",
+    "力量": "力量",
+    "strength": "力量",
+    "强力": "力量",
+    "软弱": "力量",
+    "灵与肉": "灵与肉",
+    "soul and body": "灵与肉",
+    "l'âme et le corps": "灵与肉",
+    "罗伯斯庇尔": "罗伯斯庇尔",
+    "Maximilien Robespierre": "罗伯斯庇尔",
+    "玛丽-克洛德": "玛丽-克洛德",
+    "Marie-Claude": "玛丽-克洛德",
+    "玛丽-安娜": "玛丽-安娜",
+    "Marie-Anne": "玛丽-安娜",
+    "媚俗": "媚俗",
+    "Kitsch": "媚俗",
+    "刻奇": "媚俗",
+    "摩西": "摩西",
+    "Moses": "摩西",
+    "摩西五经": "摩西",
+    "墓地": "墓地",
+    "cemetery": "墓地",
+    "公墓": "墓地",
+    "坟场": "墓地",
+    "牧歌": "牧歌",
+    "Idyll": "牧歌",
+    "田园牧歌": "牧歌",
+    "大写的牧歌与小写的牧歌": "牧歌",
+    "目录": "目录",
+    "阅读地图": "目录",
+    "Table of Contents": "目录",
+    "TOC": "目录",
+    "尼采": "尼采",
+    "Friedrich Nietzsche": "尼采",
+    "弗里德里希·尼采": "尼采",
+    "纽约": "纽约",
+    "New York": "纽约",
+    "纽约市": "纽约",
+    "女大学生": "女大学生",
+    "戴眼镜的女大学生": "女大学生",
+    "戴眼镜的女孩": "女大学生",
+    "偶然与必然": "偶然与必然",
+    "chance and necessity": "偶然与必然",
+    "hasard et nécessité": "偶然与必然",
+    "请愿书": "请愿书",
+    "赦免政治犯请愿书": "请愿书",
+    "大赦请愿书": "请愿书",
+    "轻与重": "轻与重",
+    "lightness and weight": "轻与重",
+    "leggerezza e peso": "轻与重",
+    "日内瓦": "日内瓦",
+    "Geneva": "日内瓦",
+    "Genève": "日内瓦",
+    "萨比娜": "萨比娜",
+    "Sabina": "萨比娜",
+    "萨宾娜": "萨比娜",
+    "生活在别处": "生活在别处",
+    "《生活在别处》": "生活在别处",
+    "Life Is Elsewhere": "生活在别处",
+    "诗化记忆": "诗化记忆",
+    "司汤达": "司汤达",
+    "Stendhal": "司汤达",
+    "亨利·贝尔": "司汤达",
+    "苏联入侵捷克斯洛伐克": "苏联入侵捷克斯洛伐克",
+    "苏黎世": "苏黎世",
+    "Zurich": "苏黎世",
+    "Zürich": "苏黎世",
+    "塔米娜": "塔米娜",
+    "Támina": "塔米娜",
+    "特蕾莎": "特蕾莎",
+    "Tereza": "特蕾莎",
+    "特丽莎": "特蕾莎",
+    "特蕾莎的母亲": "特蕾莎的母亲",
+    "母亲": "特蕾莎的母亲",
+    "同情": "同情",
+    "compassion": "同情",
+    "soucit": "同情",
+    "Mitgefühl": "同情",
+    "co-feeling": "同情",
+    "托马斯": "托马斯",
+    "Tomas": "托马斯",
+    "Tomáš": "托马斯",
+    "托马什": "托马斯",
+    "玩笑": "玩笑",
+    "《玩笑》": "玩笑",
+    "The Joke": "玩笑",
+    "伟大进军": "伟大进军",
+    "The Grand March": "伟大进军",
+    "la Grande Marche": "伟大进军",
+    "希特勒": "希特勒",
+    "Adolf Hitler": "希特勒",
+    "阿道夫·希特勒": "希特勒",
+    "性友谊": "性友谊",
+    "笑忘录": "笑忘录",
+    "《笑忘录》": "笑忘录",
+    "The Book of Laughter and Forgetting": "笑忘录",
+    "西蒙": "西蒙",
+    "西蒙·托马斯": "西蒙",
+    "托马斯的儿子": "西蒙",
+    "眩晕": "眩晕",
+    "vertigo": "眩晕",
+    "vertige": "眩晕",
+    "伊甸": "伊甸",
+    "伊甸园": "伊甸",
+    "Eden": "伊甸",
+    "音乐": "音乐",
+    "music": "音乐",
+    "噪音": "音乐",
+    "永恒轮回": "永恒轮回",
+    "Eternal Return": "永恒轮回",
+    "永恒回归": "永恒轮回",
+    "永劫回归": "永恒轮回",
+    "游行": "游行",
+    "parade": "游行",
+    "示威": "游行",
+    "伟大的进军": "游行"
+  },
+  "page_count": 68,
+  "generated": "2026-09-14T00:00:00Z"
+}
