@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>书境 FolioAtlas · 不能承受的生命之轻</title>
+<title>不能承受的生命之轻 · 交互阅读</title>
 <link rel="preload" href="./backlinks.json" as="fetch" crossorigin>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23a82a2a' rx='6'/><text x='16' y='24' text-anchor='middle' font-family='serif' font-size='22' fill='%23f5f0e8' font-weight='bold'>b</text></svg>">
 
@@ -43,7 +43,7 @@
 
 <nav class="topnav">
   <div class="topnav-inner">
-    <a href="#" class="brand">书境 <span>FolioAtlas</span></a>
+    <a href="#" class="brand">不能承受的生命之轻 <span>交互阅读</span></a>
     <form class="topnav-search" id="topnav-form">
       <input id="topnav-q" name="q" type="search"
              placeholder="搜索词条…" data-i18n-placeholder="search_placeholder"
@@ -52,6 +52,7 @@
     </form>
     <span id="crumb" class="crumb"></span>
     <span class="spacer"></span>
+    <a href="../" class="topnav-link">作品集</a>
     <a href="#%E4%BA%A4%E7%BB%87%E6%97%B6%E9%97%B4%E7%BA%BF" class="topnav-link">交织时间线</a>
     <a href="#Special%3AAllPages" class="topnav-link" data-i18n="all_pages">所有页面</a>
     
@@ -87,7 +88,7 @@
     <span id="src-info"></span>
     <span id="broken-info"></span>
     <span class="footer-license">
-      书境 FolioAtlas · 精编阅读演示 · 内容设计：蔡睿麟 · Wiki 运行时：Memex
+      不能承受的生命之轻 · 交互阅读 · <a href="#About">制作与来源</a>
     </span>
   </small>
 </footer>
@@ -117,17 +118,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <script>
 fetch('pages.lite.json').then(function(r){ return r.json(); }).then(function(data){
   var dl = document.getElementById('topnav-pages');
-  var pages = data.pages ? Object.values(data.pages) : [];
-  var labelToId = {};
-  pages.forEach(function(p){
-    var label = p.label || p.id || '';
+  var pages = Object.entries(data.pages || {});
+  var labelToId = Object.create(null);
+  pages.forEach(function(entry){
+    var pid = entry[0];
+    var p = entry[1];
+    var label = p.label || pid;
     var o = document.createElement('option'); o.value = label; dl.appendChild(o);
-    labelToId[label] = p.id || label;
-    labelToId[p.id || label] = p.id || label;
+    labelToId[label] = pid;
+    labelToId[pid] = pid;
     (p.aliases||[]).forEach(function(a){
       if(typeof a==='string'){
         var ao=document.createElement('option'); ao.value=a; dl.appendChild(ao);
-        labelToId[a]=p.id||label;
+        labelToId[a]=pid;
       }
     });
   });
@@ -147,5 +150,14 @@ fetch('pages.lite.json').then(function(r){ return r.json(); }).then(function(dat
 });
 </script>
 
+<script>
+// The summary edition has no chapter pages: show the shared count once.
+new MutationObserver(function() {
+  var count = document.querySelector('.hero-count');
+  if (!count) return;
+  var match = count.textContent.match(/^(\d+) 所有页面 · \1 词条$/);
+  if (match) count.textContent = match[1] + ' 个知识条目';
+}).observe(document.getElementById('article'), {childList:true, subtree:true});
+</script>
 </body>
 </html>

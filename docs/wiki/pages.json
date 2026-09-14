@@ -3,16 +3,16 @@
   "pages": {
     "About": {
       "type": "overview",
-      "label": "关于书境",
+      "label": "关于本作品",
       "aliases": [
         "About"
       ],
       "tags": [],
-      "description": "书境 FolioAtlas：将长文本组织为可以探索的知识世界。",
+      "description": "《不能承受的生命之轻》交互阅读：制作范围、个人贡献与内容来源。",
       "quality": "standard",
       "path": "ab/About.md",
-      "prose_len": 552,
-      "prose_chars": 509,
+      "prose_len": 561,
+      "prose_chars": 519,
       "h2_count": 3,
       "pn_count": 0,
       "wikilink_count": 8,
@@ -76,11 +76,11 @@
         "托尔斯泰",
         "特蕾莎"
       ],
-      "description": "托尔斯泰的长篇小说《安娜·卡列宁娜》，在《不能承受的生命之轻》中是贯穿特蕾莎命运的核心文学母题：她第一次见托马斯时腋下夹着这本书，狗卡列宁的名字也源于它；002-209 却称之为特蕾莎\"用来欺骗托马斯的假身份证\"。",
+      "description": "托尔斯泰的长篇小说《安娜·卡列宁娜》，在《不能承受的生命之轻》中是贯穿特蕾莎命运的核心文学母题：她第一次见托马斯时腋下夹着这本书，狗卡列宁的名字也源于它；小说中又称之为特蕾莎\"用来欺骗托马斯的假身份证\"。",
       "quality": "standard",
       "path": "an/安娜-卡列宁娜.md",
-      "prose_len": 233,
-      "prose_chars": 206,
+      "prose_len": 228,
+      "prose_chars": 202,
       "h2_count": 3,
       "pn_count": 0,
       "wikilink_count": 7,
@@ -1583,7 +1583,7 @@
   },
   "alias_index": {
     "About": "About",
-    "关于书境": "About",
+    "关于本作品": "About",
     "阿兰": "阿兰",
     "Alain": "阿兰",
     "阿姆斯特丹": "阿姆斯特丹",

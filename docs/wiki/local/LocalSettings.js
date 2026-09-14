@@ -1,7 +1,7 @@
 // LocalSettings.js — wiki 本地配置
 // 模板位于 $MEMEX_ROOT/docs/dist/LocalSettings.js，复制到 docs/wiki/local/ 后修改。
 
-export const wgSiteName = '书境 FolioAtlas';
+export const wgSiteName = '不能承受的生命之轻 · 交互阅读';
 
 // plugins.json 中的插件（不论 core: true/false）默认全部加载，不需要在此列出
 // 才能启用——启用与否只看 wgDisabledPlugins（下方）。
@@ -17,4 +17,4 @@ export const wgEnabledPlugins = [
 
 // 显式禁用 plugins.json 清单里的某个插件（opt-out）。
 // 地图插件无专项地理数据，禁用。
-export const wgDisabledPlugins = ['place-map','route-map','geomap','recent','diff','pn-citation','semantic-history','want-button'];
+export const wgDisabledPlugins = ['place-map','route-map','geomap','recent','diff','pn-citation','semantic-history','want-button','source-view'];

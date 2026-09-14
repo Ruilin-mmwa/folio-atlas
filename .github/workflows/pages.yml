@@ -1,4 +1,4 @@
-name: Publish FolioAtlas
+name: Publish reading portfolio
 on:
   push:
     branches: [main]

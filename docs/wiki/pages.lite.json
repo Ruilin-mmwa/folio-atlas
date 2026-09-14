@@ -3,7 +3,7 @@
   "pages": {
     "About": {
       "type": "overview",
-      "label": "关于书境",
+      "label": "关于本作品",
       "aliases": [
         "About"
       ],
@@ -609,7 +609,7 @@
   },
   "alias_index": {
     "About": "About",
-    "关于书境": "About",
+    "关于本作品": "About",
     "阿兰": "阿兰",
     "Alain": "阿兰",
     "阿姆斯特丹": "阿姆斯特丹",
